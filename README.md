@@ -18,7 +18,10 @@ or just use the cdn links to import the game code.
 games: cdn.jsdelivr.net/gh/phant0m0567/games/${gamename}/index.html
 logos: cdn.jsdelivr.net/gh/phant0m0567/games/${gamename}/index.png
 ```
-
+can also find a template game json in our zones.json
+```
+cdn.jsdelivr.net/gh/phant0m0567/games/zones.json
+```
 ## Authors
 
 - [@phant0m0567](https://www.github.com/phant0m0567) - all i did was compile stuff
