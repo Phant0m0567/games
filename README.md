@@ -22,6 +22,26 @@ can also find a template game json in our zones.json
 ```
 cdn.jsdelivr.net/gh/phant0m0567/games/zones.json
 ```
+
+## Download assets from zones.json
+
+Run the HTML and cover downloaders in separate virtual environments. Both scripts
+read `zones.json` and write each matching asset to the game's `index.html` or
+`index.png`. Duplicate game names get the ID appended to the folder name.
+
+```bash
+python3 -m venv .venv-html
+source .venv-html/bin/activate
+python download_html.py
+deactivate
+
+python3 -m venv .venv-covers
+source .venv-covers/bin/activate
+python -m pip install -r requirements-covers.txt
+python download_covers.py
+deactivate
+```
+
 ## Authors
 
 - [@phant0m0567](https://www.github.com/phant0m0567) - all i did was compile stuff
