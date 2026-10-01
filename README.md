@@ -15,12 +15,18 @@ cd games
 ```
 or just use the cdn links to import the game code.
 ```
-games: cdn.jsdelivr.net/gh/phant0m0567/games/${gamename}/index.html
-logos: cdn.jsdelivr.net/gh/phant0m0567/games/${gamename}/index.png
+games: https://cdn.jsdelivr.net/gh/phant0m0567/games@main/${folder}/index.html
+logos: https://cdn.jsdelivr.net/gh/phant0m0567/games@main/${folder}/index.png
 ```
-can also find a template game json in our zones.json
+Use the exact game folder name for `${folder}`, URL-encoding spaces and special
+characters. For example, Geometry Dash is available at:
 ```
-cdn.jsdelivr.net/gh/phant0m0567/games/zones.json
+https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash/index.html
+https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash/index.png
+```
+Duplicate game names use the ID in their folder name. The game list is at:
+```
+https://cdn.jsdelivr.net/gh/phant0m0567/games@main/zones.json
 ```
 
 ## Download assets from zones.json
