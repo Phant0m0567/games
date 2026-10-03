@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+  <base href="https://testingcf.jsdelivr.net/gh/aDiesmos/swfdump/gacha2/">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>really cool flash game </title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: black;
+      overflow: hidden;
+      height: 100%;
+      width: 100%;
+      font-family: Arial, sans-serif;
+    }
+    
+    #banner {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 12px 20px;
+      text-align: center;
+      z-index: 2000;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+      transform: translateY(0);
+      transition: transform 0.3s ease;
+    }
+    
+    #banner.hidden {
+      transform: translateY(-100%);
+    }
+    
+    .banner-text {
+      flex: 1;
+      font-size: 16px;
+      font-weight: 500;
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    }
+    
+    .banner-text strong {
+      background: rgba(255,255,255,0.2);
+      padding: 4px 8px;
+      border-radius: 4px;
+      margin: 0 4px;
+    }
+    
+    .close-banner {
+      background: rgba(255,255,255,0.2);
+      border: none;
+      color: white;
+      font-size: 24px;
+      cursor: pointer;
+      padding: 0 15px;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: background 0.2s ease;
+      border-radius: 4px;
+      margin-left: 10px;
+    }
+    
+    .close-banner:hover {
+      background: rgba(255,255,255,0.3);
+    }
+    
+    #flash-container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: black;
+    }
+    
+    ruffle-player {
+      width: 100%;
+      height: 100%;
+      background: black;
+      display: block;
+    }
+    
+    #loading-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #fff;
+      font-family: Arial, sans-serif;
+      font-size: 24px;
+      text-align: center;
+      z-index: 1000;
+    }
+  </style>
+  <script src="https://testingcf.jsdelivr.net/npm/@ruffle-rs/ruffle@0.2.0-nightly.2026.3.4/ruffle.min.js"></script>
+</head>
+<body>
+  <div id="banner">
+    <span class="banner-text">
+      ⚡ <strong>Tip:</strong> If the game fades to black after the 'Lunime' logo, right-click and press Rewind. 
+      This also fixes other fade to black errors!
+    </span>
+    <button class="close-banner" onclick="document.getElementById('banner').classList.add('hidden')">×</button>
+  </div>
+  
+  <div id="loading-text">Loading game... 0%</div>
+  <div id="flash-container"></div>
+  
+  <script>
+    const container = document.getElementById("flash-container");
+    const loadingText = document.getElementById("loading-text");
+
+    // Check if banner was previously closed
+    if (localStorage.getItem('bannerClosed') === 'true') {
+      document.getElementById('banner').classList.add('hidden');
+    }
+
+    // Add close button handler with localStorage
+    document.querySelector('.close-banner').addEventListener('click', function() {
+      document.getElementById('banner').classList.add('hidden');
+      localStorage.setItem('bannerClosed', 'true');
+    });
+
+    function mergeSWFParts(fileParts) {
+      return new Promise((resolve, reject) => {
+        let buffers = [];
+        let totalSize = 0;
+        let loadedSize = 0;
+
+        function updateProgress() {
+          if (totalSize > 0) {
+            const pct = Math.round((loadedSize / totalSize) * 100);
+            if (loadingText) {
+              loadingText.textContent = `Loading game... ${pct}%`;
+            }
+          }
+        }
+
+        function fetchPart(i) {
+          if (i >= fileParts.length) {
+            if (loadingText) {
+              loadingText.textContent = 'Merging files...';
+            }
+            let mergedBlob = new Blob(buffers, { type: 'application/x-shockwave-flash' });
+            let mergedUrl = URL.createObjectURL(mergedBlob);
+            resolve(mergedUrl);
+            return;
+          }
+
+          fetch(fileParts[i])
+            .then(response => {
+              if (!response.ok) {
+                throw new Error(`Failed to load ${fileParts[i]}: ${response.status}`);
+              }
+              const contentLength = response.headers.get('content-length');
+              if (contentLength) {
+                totalSize += parseInt(contentLength);
+              }
+              return response.arrayBuffer();
+            })
+            .then(data => {
+              buffers.push(data);
+              loadedSize += data.byteLength;
+              updateProgress();
+              fetchPart(i + 1);
+            })
+            .catch(reject);
+        }
+
+        fetchPart(0);
+      });
+    }
+
+    function getSWFParts(baseFile, start, end) {
+      let arr = [];
+      for (let i = start; i <= end; i++) {
+        arr.push(`${baseFile}.part${i}`);
+      }
+      return arr;
+    }
+
+    function resizeGame() {
+      const windowWidth = window.innerWidth;
+      const windowHeight = window.innerHeight;
+      const banner = document.getElementById('banner');
+      const bannerHeight = banner.classList.contains('hidden') ? 0 : banner.offsetHeight;
+      
+      const aspectRatio = 4 / 3;
+      let width = Math.floor(windowWidth);
+      let height = Math.floor(windowWidth / aspectRatio);
+      
+      // Adjust for banner height
+      const availableHeight = windowHeight - bannerHeight;
+      if (height > availableHeight) {
+        height = Math.floor(availableHeight);
+        width = Math.floor(height * aspectRatio);
+      }
+      
+      container.style.width = `${width}px`;
+      container.style.height = `${height}px`;
+    }
+
+    window.addEventListener("resize", resizeGame);
+
+    window.addEventListener("DOMContentLoaded", () => {
+      resizeGame();
+      
+      console.log('Starting SWF merge...');
+      
+      const swfParts = getSWFParts('GachaLifePC.swf', 1, 5); 
+      
+      const useSingleFile = false; 
+      const singleFileUrl = "GachaLifePC.swf";
+
+      const loadPromise = useSingleFile 
+        ? Promise.resolve(singleFileUrl)
+        : mergeSWFParts(swfParts);
+
+      loadPromise
+        .then(swfUrl => {
+          console.log('SWF ready, loading into Ruffle...');
+          if (loadingText) {
+            loadingText.textContent = 'Starting game...';
+          }
+
+          const ruffle = window.RufflePlayer?.newest() || window.RufflePlayer?.createPlayer();
+          if (ruffle && container) {
+            const player = ruffle.createPlayer();
+            player.style.width = "100%";
+            player.style.height = "100%";
+            player.style.background = "black";
+            container.appendChild(player);
+            
+            player.load(swfUrl).then(() => {
+              console.log('Game loaded successfully');
+              if (loadingText) {
+                loadingText.remove();
+              }
+            }).catch(err => {
+              console.error('Ruffle load error:', err);
+              if (loadingText) {
+                loadingText.textContent = 'Error loading game: ' + err.message;
+              }
+            });
+          } else {
+            console.error('Ruffle not available');
+            if (loadingText) {
+              loadingText.textContent = "Ruffle failed to load.";
+            }
+          }
+        })
+        .catch(err => {
+          console.error('SWF merge error:', err);
+          if (loadingText) {
+            loadingText.textContent = 'Error loading game files: ' + err.message;
+          }
+        });
+    });
+  </script>
+</body>
+</html>

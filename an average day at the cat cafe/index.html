@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/whatver/catcafe/">
+
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | an avg day at the cat cafe</title>
+    <style>
+      html, body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+        overflow: hidden;
+        background: #231F20;
+        text-align: center;
+      }
+      #unity-canvas {
+        background: #231F20;
+        display: block;
+        margin: 0 auto;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="unity-canvas" width="1280" height="720"></canvas>
+    <script src="Build/WebGL.loader.js"></script>
+    <script>
+      const canvas = document.querySelector("#unity-canvas");
+
+      function resizeCanvas() {
+        const width = window.innerWidth;
+        const height = window.innerHeight;
+
+        canvas.style.width = width + "px";
+        canvas.style.height = height + "px";
+
+        // Optional: maintain aspect ratio 16:9
+        const aspect = 16 / 9;
+        if (width / height > aspect) {
+          canvas.width = height * aspect;
+          canvas.height = height;
+        } else {
+          canvas.width = width;
+          canvas.height = width / aspect;
+        }
+      }
+
+      window.addEventListener("resize", resizeCanvas);
+      resizeCanvas(); // initial sizing
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        // Mobile viewport
+        const meta = document.createElement('meta');
+        meta.name = 'viewport';
+        meta.content = 'width=device-width, height=device-height, initial-scale=1.0, user-scalable=no, shrink-to-fit=yes';
+        document.head.appendChild(meta);
+
+        canvas.style.position = "fixed";
+        canvas.style.top = 0;
+        canvas.style.left = 0;
+        canvas.style.width = "100%";
+        canvas.style.height = "100%";
+      }
+
+      createUnityInstance(canvas, {
+        dataUrl: "Build/WebGL.data.gz",
+        frameworkUrl: "Build/WebGL.framework.js.gz",
+        codeUrl: "Build/WebGL.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "alex angela atmos",
+        productName: "an avg day at the cat cafe",
+        productVersion: "0.1",
+      }).then((unityInstance) => {
+        console.log("Unity loaded successfully");
+      }).catch((message) => {
+        alert(message);
+      });
+    </script>
+  </body>
+</html>

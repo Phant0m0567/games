@@ -1,0 +1,62 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/assets/discduel/">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html">
+    <title>The Amazing World of Gumball</title>
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="apple-mobile-web-app-title" content="Disc Duel">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no">
+
+    <link href="res/css/styles.css" media="screen" rel="stylesheet" type="text/css">
+
+    <script>
+
+      var CNConfig = {};
+
+      CNConfig.Player1 = {
+
+        "UP" : 38,
+        "DOWN" : 40,
+        "LEFT" : 37,
+        "RIGHT" : 39,
+        "BUTTON_1" : 78,
+        "BUTTON_2" : 77
+
+      };
+
+      CNConfig.Player2 = {
+        "UP" : 87,
+        "DOWN" : 83,
+        "LEFT" : 65,
+        "RIGHT" : 68,
+        "BUTTON_1" : 86,
+        "BUTTON_2" : 66
+
+      };
+
+      CNConfig.General = {
+        'ENTER': 13,
+        'ESC': 27
+      };
+
+    </script>
+
+    <script src="game.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="gameContainer"></div>
+
+<script>Game.Main.start()</script>
+
+</body>
+
+</html>

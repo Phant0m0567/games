@@ -1,4 +1,8 @@
-.venv-html/
-.venv-covers/
+.venv*/
 __pycache__/
 *.py[cod]
+
+# Downloader tooling (kept local only)
+*.py
+requirements*.txt
+invalid.readme

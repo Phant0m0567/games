@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/assets/jellywell/">
+
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Jelly Well</title>
+<meta name="title" content="Jelly Well by Walaber Entertainment">
+<meta name="description" content="Jelly Well, an entry for the Falling Block Jam 2025">
+<meta name="keywords" content="soft body physics, gamejam, raylib, programming, examples, html5, C, C++, library, learn, games, videogames">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="https://www.raylib.com/favicon.ico">
+<link rel="canonical" href="https://gamaverse.com/jelly-well-game/" />
+
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background-color: #000;
+    font-family: sans-serif;
+    color: #fff;
+  }
+
+  #loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    z-index: 100;
+  }
+
+  canvas.emscripten {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #000;
+    display: block;
+  }
+</style>
+
+<script src="https://testingcf.jsdelivr.net/gh/eligrey/FileSaver.js/dist/FileSaver.min.js"></script>
+<script>
+  function saveFileFromMEMFSToDisk(path, name){
+    var data = FS.readFile(path);
+    var blob = new Blob([data.buffer], { type: "application/octet-binary" });
+    saveAs(blob, name);
+  }
+</script>
+
+</head>
+<body>
+
+<div id="loading">Loading...</div>
+<canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" tabindex="-1"></canvas>
+
+<script>
+  // Set your game’s native resolution here
+  const GAME_WIDTH = 1280;
+  const GAME_HEIGHT = 720;
+
+  var Module = {
+    canvas: document.getElementById('canvas'),
+    print: function(text) {
+      if (arguments.length > 1) text = Array.prototype.slice.call(arguments).join(' ');
+      console.log(text); // only console
+    },
+    onRuntimeInitialized: function() {
+      var loading = document.getElementById('loading');
+      if (loading) loading.style.display = 'none';
+      resizeCanvas();
+    }
+  };
+
+  function resizeCanvas() {
+    const canvas = Module.canvas;
+    if (!canvas) return;
+
+    const windowWidth = window.innerWidth;
+    const windowHeight = window.innerHeight;
+
+    // Calculate scale to fit while maintaining aspect ratio
+    const scaleX = windowWidth / GAME_WIDTH;
+    const scaleY = windowHeight / GAME_HEIGHT;
+    const scale = Math.min(scaleX, scaleY);
+
+    canvas.width = GAME_WIDTH;
+    canvas.height = GAME_HEIGHT;
+
+    // Set CSS size to scale the canvas
+    canvas.style.width = (GAME_WIDTH * scale) + "px";
+    canvas.style.height = (GAME_HEIGHT * scale) + "px";
+  }
+
+  window.addEventListener('resize', resizeCanvas);
+
+  // Load the game
+  var script = document.createElement('script');
+  script.src = 'index.js';
+  script.async = true;
+  document.body.appendChild(script);
+</script>
+
+</body>
+</html>

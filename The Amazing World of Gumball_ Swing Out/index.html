@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/assets/swingout/">
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
+
+        <!-- This is to enable fullscreen when you save the page as a bookmark to the phone desktop. -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="mobile-web-app-capable" content="yes">
+
+        <script src="libs/pixi/pixi.js"></script>
+        <script src="libs/pixi/pixi-particles.min.js"></script>
+        <script src="libs/signals.min.js"></script>
+        <script src="libs/greensock/tweenmax.min.js"></script>
+        <script src="libs/howler.min.js"></script>
+        <script src="libs/bowser/bowser.min.js"></script>
+		<script src="libs/screenfull.min.js"></script>
+        <script src="libs/md5.min.js"></script>
+        <script src="libs/jquery-3.2.1.min.js"></script>
+        <script src="libs/p3.min.js"></script>
+		<script src="libs/p2.min.js"></script>		
+        <script src="bin/bundle.min.js"></script>
+
+        <link rel="stylesheet" href="assets/fonts/FredFredburgerAra-Regular.css">
+        <link rel="stylesheet" href="assets/fonts/FredFredburgerAraHeadBlack-Regular.css">
+        <link rel="stylesheet" href="assets/fonts/Junegull-Regular.css">		
+		
+        <style>
+            body
+			{
+                margin: 0;
+                padding: 0;
+                background-color: #000000;
+				overflow:hidden;
+            }
+            #game
+			{
+                position: absolute;
+                width: 100%;
+                height: 100%;
+            }
+			canvas
+			{
+				outline: none;
+			}
+        </style>
+    </head>
+	<body>
+        <div id="og-game-holder"></div>
+		<script>
+			var main = new Main(1024, 768, "en");
+			main.init();
+        </script>
+
+    </body>
+</html>
+

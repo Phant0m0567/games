@@ -1,0 +1,223 @@
+<html>
+    <head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/livediesmos/boxingphysics2/">
+        <script type="text/javascript">
+        /**
+         * Game config
+         */
+
+        window.config = {
+            debug: false,
+            maxRatio: 16 / 9,
+            minRatio: 9 / 16,
+            numScreenshots: 4,
+            unityWebglBuildUrl: 'Build/Boxing-Physics-2.json',
+            unityWebglLoaderUrl: 'Build/UnityLoader.js'
+        };
+        </script>
+
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <title>Boxing Physics 2</title>
+        <script src="/js/all.js"></script>
+
+        <link rel="stylesheet" type="text/css" href="style.css" />
+
+        <script type="text/javascript" src="scripts/poki-sdk.js"></script>
+        
+        <style>
+            #loading-text {
+                text-align: center;
+                color: white;
+                font-size: 18px;
+                margin-top: 10px;
+                font-family: Arial, sans-serif;
+            }
+            
+            #game-container {
+                display: none;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="loader">
+            <div id="slideshow">
+                <div id="slideshow-top">
+                    <img alt="Boxing Physics 2" title="Boxing Physics 2" src="thumbnail.jpg" id="thumbnail" />
+
+                    <div id="slideshow-top-container">
+                        <div id="game-title">
+                            <h1>Boxing Physics 2</h1>
+                        </div>
+                        <div id="progress-container">
+                            <div id="progress-bar">
+                                <div id="progress-fill" style="width:0%"></div>
+                            </div>
+                            <div id="progress-amount">0%</div>
+                        </div>
+                        <!-- Added loading text element -->
+                        <div id="loading-text">INITIALIZING... (0/3)</div>
+                    </div>
+                </div>
+                <div id="slideshow-images"></div>
+                <div id="slideshow-nav"></div>
+            </div>
+        </div>
+
+        <div id="game-container">
+            <div id="game"></div>
+        </div>
+
+        <!-- File merging script -->
+        <script type="text/javascript">
+            let totalParts = 0;
+            let loadedParts = 0;
+            let mergedBlobUrl = null;
+
+            function updateLoadingText(stage, current, total) {
+                const stages = ['INITIALIZING', 'LOADING FILES', 'STARTING GAME'];
+                document.querySelector("#loading-text").textContent = 
+                    `${stages[stage]}... (${current}/${total})`;
+            }
+
+            function mergeFiles(fileParts) {
+                return new Promise((resolve, reject) => {
+                    let buffers = [];
+                    let currentStage = 1; // LOADING FILES stage
+
+                    function fetchPart(index) {
+                        if (index >= fileParts.length) {
+                            let mergedBlob = new Blob(buffers);
+                            mergedBlobUrl = URL.createObjectURL(mergedBlob);
+                            console.log('Created merged blob URL:', mergedBlobUrl);
+                            resolve();
+                            return;
+                        }
+                        
+                        fetch(fileParts[index])
+                            .then((response) => {
+                                if (!response.ok) {
+                                    throw new Error(`Failed to fetch ${fileParts[index]}: ${response.status}`);
+                                }
+                                return response.arrayBuffer();
+                            })
+                            .then((data) => {
+                                buffers.push(data);
+                                loadedParts++;
+                                updateLoadingText(currentStage, loadedParts, totalParts);
+                                fetchPart(index + 1);
+                            })
+                            .catch(reject);
+                    }
+                    fetchPart(0);
+                });
+            }
+
+            function getParts(filename, start, end) {
+                let parts = [];
+                for (let i = start; i <= end; i++) {
+                    parts.push(filename + ".part" + i);
+                }
+                totalParts = (end - start + 1);
+                loadedParts = 0;
+                return parts;
+            }
+
+            // Override XMLHttpRequest to intercept Unity file requests
+            function overrideXHR() {
+                if (!mergedBlobUrl) {
+                    console.error('No merged blob URL available');
+                    return;
+                }
+
+                const originalXHROpen = XMLHttpRequest.prototype.open;
+                const originalXHRSend = XMLHttpRequest.prototype.send;
+                
+                XMLHttpRequest.prototype.open = function(method, url, ...args) {
+                    console.log('XHR open:', url);
+                    // Intercept requests for the split file
+                    if (url && url.includes('Boxing-Physics-2.asm.code.unityweb')) {
+                        console.log('Intercepting XHR request for:', url);
+                        console.log('Redirecting to merged blob URL');
+                        this._interceptedUrl = url;
+                        return originalXHROpen.apply(this, [method, mergedBlobUrl, ...args]);
+                    }
+                    return originalXHROpen.apply(this, [method, url, ...args]);
+                };
+
+                XMLHttpRequest.prototype.send = function(body) {
+                    if (this._interceptedUrl) {
+                        console.log('Sending intercepted XHR for:', this._interceptedUrl);
+                    }
+                    return originalXHRSend.call(this, body);
+                };
+
+                console.log('XMLHttpRequest override installed');
+            }
+
+            // Initialize the game
+            async function initializeGame() {
+                try {
+                    console.log('Starting game initialization...');
+                    updateLoadingText(0, 1, 3);
+                    
+                    // Step 1: Merge the split files
+                    console.log('Step 1: Merging split files...');
+                    await mergeFiles(getParts("https://testingcf.jsdelivr.net/gh/aDiesmos/livediesmos/boxingphysics2/Build/Boxing-Physics-2.asm.code.unityweb", 1, 2));
+                    
+                    // Step 2: Override XMLHttpRequest
+                    console.log('Step 2: Overriding XMLHttpRequest...');
+                    overrideXHR();
+                    
+                    updateLoadingText(2, 2, 3);
+                    
+                    // Step 3: Load UnityLoader
+                    console.log('Step 3: Loading UnityLoader...');
+                    return new Promise((resolve, reject) => {
+                        const script = document.createElement('script');
+                        script.type = 'text/javascript';
+                        script.src = 'Build/UnityLoader.js';
+                        script.onload = function() {
+                            console.log('UnityLoader loaded successfully');
+                            updateLoadingText(2, 3, 3);
+                            resolve();
+                        };
+                        script.onerror = function(err) {
+                            console.error('Failed to load UnityLoader:', err);
+                            reject(err);
+                        };
+                        document.head.appendChild(script);
+                    });
+                    
+                } catch (error) {
+                    console.error('Failed to initialize game:', error);
+                    document.querySelector("#loading-text").textContent = 
+                        "LOADING FAILED: " + error.message;
+                    throw error;
+                }
+            }
+
+            // Start initialization when page loads
+            document.addEventListener('DOMContentLoaded', function() {
+                console.log('DOM loaded, starting initialization');
+                initializeGame().then(() => {
+                    // Now load the Poki Unity loader which will start the game
+                    console.log('Loading Poki Unity loader...');
+                    const pokiScript = document.createElement('script');
+                    pokiScript.type = 'text/javascript';
+                    pokiScript.src = 'scripts/poki-unity-loader.js';
+                    pokiScript.onload = function() {
+                        console.log('Poki Unity loader loaded successfully');
+                    };
+                    pokiScript.onerror = function(err) {
+                        console.error('Failed to load Poki Unity loader:', err);
+                    };
+                    document.head.appendChild(pokiScript);
+                }).catch(error => {
+                    console.error('Game initialization failed:', error);
+                });
+            });
+        </script>
+    </body>
+</html>

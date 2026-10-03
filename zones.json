@@ -494,8 +494,8 @@
   {
     "id": 85,
     "name": "Cut the Rope",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cut%20the%20Rope%20%2885%29/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cut%20the%20Rope%20%2885%29/index.html"
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cut%20the%20Rope/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cut%20the%20Rope/index.html"
   },
   {
     "id": 86,
@@ -2893,7 +2893,7 @@
   },
   {
     "id": 509,
-    "name": "Friday Night Funkin’ Soft",
+    "name": "Friday Night Funkin\u2019 Soft",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Soft/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Soft/index.html"
   },
@@ -3529,7 +3529,7 @@
   },
   {
     "id": 616,
-    "name": "Friday Night Funkin’ Wednesday's Infidelity",
+    "name": "Friday Night Funkin\u2019 Wednesday's Infidelity",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Wednesday%27s%20Infidelity/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Wednesday%27s%20Infidelity/index.html"
   },
@@ -3541,7 +3541,7 @@
   },
   {
     "id": 618,
-    "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
+    "name": "FNF vs Bob v2.0 (Bob\u2019s Onslaught)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF%20vs%20Bob%20v2.0%20%28Bob%E2%80%99s%20Onslaught%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF%20vs%20Bob%20v2.0%20%28Bob%E2%80%99s%20Onslaught%29/index.html"
   },
@@ -4226,8 +4226,8 @@
   {
     "id": 733,
     "name": "Tetris",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28733%29/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28733%29/index.html"
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28774%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28774%29/index.html"
   },
   {
     "id": 734,
@@ -4249,7 +4249,7 @@
   },
   {
     "id": 737,
-    "name": "Saihate Station (さいはて駅)",
+    "name": "Saihate Station (\u3055\u3044\u306f\u3066\u99c5)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Saihate%20Station%20%28%E3%81%95%E3%81%84%E3%81%AF%E3%81%A6%E9%A7%85%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Saihate%20Station%20%28%E3%81%95%E3%81%84%E3%81%AF%E3%81%A6%E9%A7%85%29/index.html"
   },
@@ -4298,8 +4298,8 @@
   {
     "id": 745,
     "name": "Tetris",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28745%29/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28745%29/index.html"
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28944%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28944%29/index.html"
   },
   {
     "id": 746,
@@ -4735,7 +4735,7 @@
   },
   {
     "id": 818,
-    "name": "t³ (T cubed)",
+    "name": "t\u00b3 (T cubed)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/t%C2%B3%20%28T%20cubed%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/t%C2%B3%20%28T%20cubed%29/index.html"
   },
@@ -5038,5 +5038,4355 @@
     "name": "Geometry Dash",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash/index.html"
+  },
+  {
+    "id": 869,
+    "name": "Anti Terrorist Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Anti%20Terrorist%20Rush/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Anti%20Terrorist%20Rush/index.html"
+  },
+  {
+    "id": 870,
+    "name": "Douchebag Workout 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Douchebag%20Workout%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Douchebag%20Workout%202/index.html"
+  },
+  {
+    "id": 871,
+    "name": "Froggys Battle",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Froggys%20Battle/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Froggys%20Battle/index.html"
+  },
+  {
+    "id": 872,
+    "name": "Gimme The Airpod",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gimme%20The%20Airpod/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gimme%20The%20Airpod/index.html"
+  },
+  {
+    "id": 873,
+    "name": "an average day at the cat cafe",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/an%20average%20day%20at%20the%20cat%20cafe/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/an%20average%20day%20at%20the%20cat%20cafe/index.html"
+  },
+  {
+    "id": 874,
+    "name": "Helios",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Helios/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Helios/index.html"
+  },
+  {
+    "id": 875,
+    "name": "Matrix Rampage",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Matrix%20Rampage/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Matrix%20Rampage/index.html"
+  },
+  {
+    "id": 876,
+    "name": "SpongeBob SquarePants: Bubble Blast",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Bubble%20Blast/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Bubble%20Blast/index.html"
+  },
+  {
+    "id": 877,
+    "name": "3 Pandas",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/3%20Pandas/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/3%20Pandas/index.html"
+  },
+  {
+    "id": 878,
+    "name": "Hoop Royale",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hoop%20Royale/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hoop%20Royale/index.html"
+  },
+  {
+    "id": 879,
+    "name": "Bubble Tower 3d",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Tower%203d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Tower%203d/index.html"
+  },
+  {
+    "id": 880,
+    "name": "Scarlet Shift",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Scarlet%20Shift/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Scarlet%20Shift/index.html"
+  },
+  {
+    "id": 881,
+    "name": "The Final Cat",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Final%20Cat/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Final%20Cat/index.html"
+  },
+  {
+    "id": 882,
+    "name": "Renegade Rally",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Renegade%20Rally/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Renegade%20Rally/index.html"
+  },
+  {
+    "id": 883,
+    "name": "Wild Kratts: Archerfish Bug Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Archerfish%20Bug%20Rush/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Archerfish%20Bug%20Rush/index.html"
+  },
+  {
+    "id": 884,
+    "name": "Wild Kratts: Creature Mobile",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Creature%20Mobile/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Creature%20Mobile/index.html"
+  },
+  {
+    "id": 885,
+    "name": "FNF: CN Lost Episodes",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CN%20Lost%20Episodes%20%2836%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CN%20Lost%20Episodes%20%2836%29/index.html"
+  },
+  {
+    "id": 886,
+    "name": "FNF: CN Lost Episodes",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CN%20Lost%20Episodes%20%28912%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CN%20Lost%20Episodes%20%28912%29/index.html"
+  },
+  {
+    "id": 887,
+    "name": "FNF: Sweet Licorice",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sweet%20Licorice/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sweet%20Licorice/index.html"
+  },
+  {
+    "id": 888,
+    "name": "FNF: Porifera Atoll",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Porifera%20Atoll/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Porifera%20Atoll/index.html"
+  },
+  {
+    "id": 889,
+    "name": "FNF: Tails Gets Trolled",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tails%20Gets%20Trolled/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tails%20Gets%20Trolled/index.html"
+  },
+  {
+    "id": 890,
+    "name": "FNF: ATROCITY 2025",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20ATROCITY%202025/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20ATROCITY%202025/index.html"
+  },
+  {
+    "id": 891,
+    "name": "FNF: Chev (V-Slice One Shot)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Chev%20%28V-Slice%20One%20Shot%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Chev%20%28V-Slice%20One%20Shot%29/index.html"
+  },
+  {
+    "id": 892,
+    "name": "Wild Kratts: Monkey Mayhem",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Monkey%20Mayhem/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Monkey%20Mayhem/index.html"
+  },
+  {
+    "id": 893,
+    "name": "Wild Kratts: Amazin' Amazon Adventure",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Amazin%27%20Amazon%20Adventure/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wild%20Kratts_%20Amazin%27%20Amazon%20Adventure/index.html"
+  },
+  {
+    "id": 894,
+    "name": "Super Mario Micro Land",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Micro%20Land/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Micro%20Land/index.html"
+  },
+  {
+    "id": 895,
+    "name": "Mario Party Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Party%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Party%20Advance/index.html"
+  },
+  {
+    "id": 896,
+    "name": "WarioWare, Inc.",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/WarioWare%2C%20Inc/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/WarioWare%2C%20Inc/index.html"
+  },
+  {
+    "id": 897,
+    "name": "The Legend of Zelda: A Link to the Past",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Legend%20of%20Zelda_%20A%20Link%20to%20the%20Past/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Legend%20of%20Zelda_%20A%20Link%20to%20the%20Past/index.html"
+  },
+  {
+    "id": 898,
+    "name": "Final Fantasy 1 &amp; 2 Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%201%20%26amp%3B%202%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%201%20%26amp%3B%202%20Advance/index.html"
+  },
+  {
+    "id": 899,
+    "name": "Final Fantasy IV Advance (Sound Restoration Mod)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%20IV%20Advance%20%28Sound%20Restoration%20Mod%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%20IV%20Advance%20%28Sound%20Restoration%20Mod%29/index.html"
+  },
+  {
+    "id": 900,
+    "name": "Final Fantasy VI Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%20VI%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%20VI%20Advance/index.html"
+  },
+  {
+    "id": 901,
+    "name": "Final Fantasy Tactics Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%20Tactics%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Final%20Fantasy%20Tactics%20Advance/index.html"
+  },
+  {
+    "id": 902,
+    "name": "Fire Emblem",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fire%20Emblem/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fire%20Emblem/index.html"
+  },
+  {
+    "id": 903,
+    "name": "Digimon Racing",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Digimon%20Racing/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Digimon%20Racing/index.html"
+  },
+  {
+    "id": 904,
+    "name": "The Legend of Zelda: The Minish Cap",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Legend%20of%20Zelda_%20The%20Minish%20Cap/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Legend%20of%20Zelda_%20The%20Minish%20Cap/index.html"
+  },
+  {
+    "id": 905,
+    "name": "Bomberman Max 2 - Blue Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bomberman%20Max%202%20-%20Blue%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bomberman%20Max%202%20-%20Blue%20Advance/index.html"
+  },
+  {
+    "id": 906,
+    "name": "Bomberman Tournament",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bomberman%20Tournament/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bomberman%20Tournament/index.html"
+  },
+  {
+    "id": 907,
+    "name": "Bubble Bobble: Old and New",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Bobble_%20Old%20and%20New/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Bobble_%20Old%20and%20New/index.html"
+  },
+  {
+    "id": 908,
+    "name": "F-Zero - GP Legend",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/F-Zero%20-%20GP%20Legend/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/F-Zero%20-%20GP%20Legend/index.html"
+  },
+  {
+    "id": 909,
+    "name": "F-Zero - Maximum Velocity",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/F-Zero%20-%20Maximum%20Velocity/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/F-Zero%20-%20Maximum%20Velocity/index.html"
+  },
+  {
+    "id": 910,
+    "name": "Game &amp; Watch Gallery 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Game%20%26amp%3B%20Watch%20Gallery%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Game%20%26amp%3B%20Watch%20Gallery%204/index.html"
+  },
+  {
+    "id": 911,
+    "name": "Golden Sun",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Golden%20Sun/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Golden%20Sun/index.html"
+  },
+  {
+    "id": 912,
+    "name": "Gunstar Super Heroes",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gunstar%20Super%20Heroes/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gunstar%20Super%20Heroes/index.html"
+  },
+  {
+    "id": 913,
+    "name": "Hamtaro - Ham-Ham Heartbreak",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hamtaro%20-%20Ham-Ham%20Heartbreak/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hamtaro%20-%20Ham-Ham%20Heartbreak/index.html"
+  },
+  {
+    "id": 914,
+    "name": "Iridion 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Iridion%203D/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Iridion%203D/index.html"
+  },
+  {
+    "id": 915,
+    "name": "Kirby &amp; The Amazing Mirror",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kirby%20%26amp%3B%20The%20Amazing%20Mirror/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kirby%20%26amp%3B%20The%20Amazing%20Mirror/index.html"
+  },
+  {
+    "id": 916,
+    "name": "Kirby: Nightmare in Dream Land",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kirby_%20Nightmare%20in%20Dream%20Land/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kirby_%20Nightmare%20in%20Dream%20Land/index.html"
+  },
+  {
+    "id": 917,
+    "name": "The Amazing World of Gumball: Disc Duel",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Disc%20Duel/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Disc%20Duel/index.html"
+  },
+  {
+    "id": 918,
+    "name": "The Amazing World of Gumball: Swing Out",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Swing%20Out/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Swing%20Out/index.html"
+  },
+  {
+    "id": 919,
+    "name": "The Amazing World of Gumball: Remote Fu",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Remote%20Fu/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Remote%20Fu/index.html"
+  },
+  {
+    "id": 920,
+    "name": "The Amazing World of Gumball: Snow Stoppers",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Snow%20Stoppers/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Snow%20Stoppers/index.html"
+  },
+  {
+    "id": 921,
+    "name": "The Amazing World of Gumball: Water Sons",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Water%20Sons/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Water%20Sons/index.html"
+  },
+  {
+    "id": 922,
+    "name": "HACHAMECHA MARCHEN",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/HACHAMECHA%20MARCHEN/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/HACHAMECHA%20MARCHEN/index.html"
+  },
+  {
+    "id": 923,
+    "name": "Human Expenditure Program (BLOODMONEY! 2)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Human%20Expenditure%20Program%20%28BLOODMONEY%21%202%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Human%20Expenditure%20Program%20%28BLOODMONEY%21%202%29/index.html"
+  },
+  {
+    "id": 924,
+    "name": "DOKI BOOM DASH!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/DOKI%20BOOM%20DASH%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/DOKI%20BOOM%20DASH%21/index.html"
+  },
+  {
+    "id": 925,
+    "name": "kana.exe",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/kana.exe/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/kana.exe/index.html"
+  },
+  {
+    "id": 926,
+    "name": "Neo Malta",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Neo%20Malta/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Neo%20Malta/index.html"
+  },
+  {
+    "id": 927,
+    "name": "let's hide the body!\u2661 (tee-hee~)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/let%27s%20hide%20the%20body%21%E2%99%A1%20%28tee-hee~%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/let%27s%20hide%20the%20body%21%E2%99%A1%20%28tee-hee~%29/index.html"
+  },
+  {
+    "id": 928,
+    "name": "Run Rich 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Run%20Rich%203D/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Run%20Rich%203D/index.html"
+  },
+  {
+    "id": 929,
+    "name": "Save P Diddy From Prison",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Save%20P%20Diddy%20From%20Prison/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Save%20P%20Diddy%20From%20Prison/index.html"
+  },
+  {
+    "id": 930,
+    "name": "Triple Match 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Triple%20Match%203D/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Triple%20Match%203D/index.html"
+  },
+  {
+    "id": 931,
+    "name": "Wheel Scale",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wheel%20Scale/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wheel%20Scale/index.html"
+  },
+  {
+    "id": 932,
+    "name": "Class of '09: The Re-Up",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Class%20of%20%2709_%20The%20Re-Up/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Class%20of%20%2709_%20The%20Re-Up/index.html"
+  },
+  {
+    "id": 933,
+    "name": "Pixel Cave",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pixel%20Cave/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pixel%20Cave/index.html"
+  },
+  {
+    "id": 934,
+    "name": "Push The Square",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Push%20The%20Square/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Push%20The%20Square/index.html"
+  },
+  {
+    "id": 935,
+    "name": "Slope Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Slope%20Ball/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Slope%20Ball/index.html"
+  },
+  {
+    "id": 936,
+    "name": "Jelly Well",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jelly%20Well/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jelly%20Well/index.html"
+  },
+  {
+    "id": 937,
+    "name": "SpongeBob SquarePants: Marble Bash",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Marble%20Bash/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Marble%20Bash/index.html"
+  },
+  {
+    "id": 938,
+    "name": "Sonic The Hedgehog 3: Angel Island Revisited",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20The%20Hedgehog%203_%20Angel%20Island%20Revisited/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20The%20Hedgehog%203_%20Angel%20Island%20Revisited/index.html"
+  },
+  {
+    "id": 939,
+    "name": "SpongeBob SquarePants: Monster Island",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Monster%20Island/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Monster%20Island/index.html"
+  },
+  {
+    "id": 940,
+    "name": "SpongeBob SquarePants: Cardbored",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Cardbored/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Cardbored/index.html"
+  },
+  {
+    "id": 941,
+    "name": "Packabunchas",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Packabunchas/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Packabunchas/index.html"
+  },
+  {
+    "id": 942,
+    "name": "Infernae",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Infernae/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Infernae/index.html"
+  },
+  {
+    "id": 943,
+    "name": "Kart Kingdom Racing",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kart%20Kingdom%20Racing/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kart%20Kingdom%20Racing/index.html"
+  },
+  {
+    "id": 944,
+    "name": "Pinball Mania",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pinball%20Mania/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pinball%20Mania/index.html"
+  },
+  {
+    "id": 945,
+    "name": "Super Zombies Again",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Zombies%20Again/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Zombies%20Again/index.html"
+  },
+  {
+    "id": 946,
+    "name": "Squid Gun Fest",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Squid%20Gun%20Fest/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Squid%20Gun%20Fest/index.html"
+  },
+  {
+    "id": 947,
+    "name": "Space Company",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Company/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Company/index.html"
+  },
+  {
+    "id": 948,
+    "name": "Space Garden",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Garden/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Garden/index.html"
+  },
+  {
+    "id": 949,
+    "name": "Stickman Epic Battle",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stickman%20Epic%20Battle/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stickman%20Epic%20Battle/index.html"
+  },
+  {
+    "id": 950,
+    "name": "Storm The House2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Storm%20The%20House2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Storm%20The%20House2/index.html"
+  },
+  {
+    "id": 951,
+    "name": "Go! Go! K.O.!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Go%21%20Go%21%20K.O.%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Go%21%20Go%21%20K.O.%21/index.html"
+  },
+  {
+    "id": 952,
+    "name": "Slither.io Online",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Slither.io%20Online/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Slither.io%20Online/index.html"
+  },
+  {
+    "id": 953,
+    "name": "The Race",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Race/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Race/index.html"
+  },
+  {
+    "id": 954,
+    "name": "Tricolor",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tricolor/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tricolor/index.html"
+  },
+  {
+    "id": 955,
+    "name": "Jump Jousts",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jump%20Jousts/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jump%20Jousts/index.html"
+  },
+  {
+    "id": 956,
+    "name": "Jump Jousts 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jump%20Jousts%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jump%20Jousts%202/index.html"
+  },
+  {
+    "id": 957,
+    "name": "Parking Lot Wars",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Parking%20Lot%20Wars/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Parking%20Lot%20Wars/index.html"
+  },
+  {
+    "id": 958,
+    "name": "Police Getaway",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Police%20Getaway/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Police%20Getaway/index.html"
+  },
+  {
+    "id": 959,
+    "name": "Go! Slimey Go!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Go%21%20Slimey%20Go%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Go%21%20Slimey%20Go%21/index.html"
+  },
+  {
+    "id": 960,
+    "name": "Your Turn To Die",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Your%20Turn%20To%20Die/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Your%20Turn%20To%20Die/index.html"
+  },
+  {
+    "id": 961,
+    "name": "FNF: Kick Kick Funk!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Kick%20Kick%20Funk%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Kick%20Kick%20Funk%21/index.html"
+  },
+  {
+    "id": 962,
+    "name": "Dont Drop The White Ball 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dont%20Drop%20The%20White%20Ball%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dont%20Drop%20The%20White%20Ball%202/index.html"
+  },
+  {
+    "id": 963,
+    "name": "Generic Fishing Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Generic%20Fishing%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Generic%20Fishing%20Game/index.html"
+  },
+  {
+    "id": 964,
+    "name": "Geometry Jump Sketchy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Jump%20Sketchy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Jump%20Sketchy/index.html"
+  },
+  {
+    "id": 965,
+    "name": "Icy's Purple Head",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Icy%27s%20Purple%20Head/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Icy%27s%20Purple%20Head/index.html"
+  },
+  {
+    "id": 966,
+    "name": "Interactive Buddy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Interactive%20Buddy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Interactive%20Buddy/index.html"
+  },
+  {
+    "id": 967,
+    "name": "Jimothy Piggerton",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jimothy%20Piggerton/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jimothy%20Piggerton/index.html"
+  },
+  {
+    "id": 968,
+    "name": "Dude Theft Auto",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dude%20Theft%20Auto/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dude%20Theft%20Auto/index.html"
+  },
+  {
+    "id": 969,
+    "name": "Labubu Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Labubu%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Labubu%20Clicker/index.html"
+  },
+  {
+    "id": 970,
+    "name": "Infinite Mario",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Infinite%20Mario/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Infinite%20Mario/index.html"
+  },
+  {
+    "id": 971,
+    "name": "Hextris",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hextris/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hextris/index.html"
+  },
+  {
+    "id": 972,
+    "name": "Bubble Pop Adventures",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Pop%20Adventures/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Pop%20Adventures/index.html"
+  },
+  {
+    "id": 973,
+    "name": "Head Soccer 2023",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Head%20Soccer%202023/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Head%20Soccer%202023/index.html"
+  },
+  {
+    "id": 974,
+    "name": "Basket and Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basket%20and%20Ball/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basket%20and%20Ball/index.html"
+  },
+  {
+    "id": 975,
+    "name": "Block the Pig",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Block%20the%20Pig/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Block%20the%20Pig/index.html"
+  },
+  {
+    "id": 976,
+    "name": "FNAF: Sister Location",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF_%20Sister%20Location/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF_%20Sister%20Location/index.html"
+  },
+  {
+    "id": 977,
+    "name": "Neon Leap",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Neon%20Leap/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Neon%20Leap/index.html"
+  },
+  {
+    "id": 978,
+    "name": "Winter Clash 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Winter%20Clash%203D/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Winter%20Clash%203D/index.html"
+  },
+  {
+    "id": 979,
+    "name": "Color Pencil Run",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Color%20Pencil%20Run/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Color%20Pencil%20Run/index.html"
+  },
+  {
+    "id": 980,
+    "name": "Pure CSS Stack",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pure%20CSS%20Stack/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pure%20CSS%20Stack/index.html"
+  },
+  {
+    "id": 981,
+    "name": "Phineas and Ferb Tetris",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Phineas%20and%20Ferb%20Tetris/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Phineas%20and%20Ferb%20Tetris/index.html"
+  },
+  {
+    "id": 982,
+    "name": "Doki Doki Literature Club",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doki%20Doki%20Literature%20Club/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doki%20Doki%20Literature%20Club/index.html"
+  },
+  {
+    "id": 983,
+    "name": "Undertale",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Undertale/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Undertale/index.html"
+  },
+  {
+    "id": 984,
+    "name": "Deltarune",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Deltarune/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Deltarune/index.html"
+  },
+  {
+    "id": 985,
+    "name": "FNF: an FNF Bocchi the Rock! mod (DEMO)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20an%20FNF%20Bocchi%20the%20Rock%21%20mod%20%28DEMO%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20an%20FNF%20Bocchi%20the%20Rock%21%20mod%20%28DEMO%29/index.html"
+  },
+  {
+    "id": 986,
+    "name": "FNF: Weekend 1: Girlfriend Mix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Weekend%201_%20Girlfriend%20Mix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Weekend%201_%20Girlfriend%20Mix/index.html"
+  },
+  {
+    "id": 987,
+    "name": "Papa louie",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%20louie/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%20louie/index.html"
+  },
+  {
+    "id": 988,
+    "name": "Papa louie 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%20louie%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%20louie%202/index.html"
+  },
+  {
+    "id": 989,
+    "name": "Papa louie 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%20louie%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%20louie%203/index.html"
+  },
+  {
+    "id": 990,
+    "name": "Quest For Bacon",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Quest%20For%20Bacon/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Quest%20For%20Bacon/index.html"
+  },
+  {
+    "id": 991,
+    "name": "Get To The Top Although There Is No Top BFDI",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Get%20To%20The%20Top%20Although%20There%20Is%20No%20Top%20BFDI/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Get%20To%20The%20Top%20Although%20There%20Is%20No%20Top%20BFDI/index.html"
+  },
+  {
+    "id": 992,
+    "name": "Not So Special Stage",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Not%20So%20Special%20Stage/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Not%20So%20Special%20Stage/index.html"
+  },
+  {
+    "id": 993,
+    "name": "100ng",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/100ng/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/100ng/index.html"
+  },
+  {
+    "id": 994,
+    "name": "8Ball Billards Classic",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/8Ball%20Billards%20Classic/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/8Ball%20Billards%20Classic/index.html"
+  },
+  {
+    "id": 995,
+    "name": "Snake",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Snake/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Snake/index.html"
+  },
+  {
+    "id": 996,
+    "name": "Solitaire",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Solitaire/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Solitaire/index.html"
+  },
+  {
+    "id": 997,
+    "name": "Arcade Wizard",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Arcade%20Wizard/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Arcade%20Wizard/index.html"
+  },
+  {
+    "id": 998,
+    "name": "Black Hole Square",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Black%20Hole%20Square/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Black%20Hole%20Square/index.html"
+  },
+  {
+    "id": 999,
+    "name": "Black Knight",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Black%20Knight/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Black%20Knight/index.html"
+  },
+  {
+    "id": 1000,
+    "name": "Bloons Tower Defense",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense/index.html"
+  },
+  {
+    "id": 1001,
+    "name": "Bloons Tower Defense 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%202/index.html"
+  },
+  {
+    "id": 1002,
+    "name": "Among Us",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Among%20Us/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Among%20Us/index.html"
+  },
+  {
+    "id": 1003,
+    "name": "Ascii Space",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ascii%20Space/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ascii%20Space/index.html"
+  },
+  {
+    "id": 1004,
+    "name": "Aspiring Artist",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Aspiring%20Artist/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Aspiring%20Artist/index.html"
+  },
+  {
+    "id": 1005,
+    "name": "Cannon Basketball 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cannon%20Basketball%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cannon%20Basketball%204/index.html"
+  },
+  {
+    "id": 1006,
+    "name": "Crowd City 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Crowd%20City%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Crowd%20City%202/index.html"
+  },
+  {
+    "id": 1007,
+    "name": "Defend The Tank",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Defend%20The%20Tank/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Defend%20The%20Tank/index.html"
+  },
+  {
+    "id": 1008,
+    "name": "Doctor Acorn 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doctor%20Acorn%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doctor%20Acorn%202/index.html"
+  },
+  {
+    "id": 1009,
+    "name": "Double Wires",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Double%20Wires/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Double%20Wires/index.html"
+  },
+  {
+    "id": 1010,
+    "name": "Grey Box Testing",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Grey%20Box%20Testing/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Grey%20Box%20Testing/index.html"
+  },
+  {
+    "id": 1011,
+    "name": "Rocking Sky Trip",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rocking%20Sky%20Trip/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rocking%20Sky%20Trip/index.html"
+  },
+  {
+    "id": 1012,
+    "name": "Smoking Barrels",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Smoking%20Barrels/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Smoking%20Barrels/index.html"
+  },
+  {
+    "id": 1013,
+    "name": "Winter Falling Price",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Winter%20Falling%20Price/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Winter%20Falling%20Price/index.html"
+  },
+  {
+    "id": 1014,
+    "name": "Battle For Gondor",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Battle%20For%20Gondor/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Battle%20For%20Gondor/index.html"
+  },
+  {
+    "id": 1015,
+    "name": "Connect 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Connect%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Connect%203/index.html"
+  },
+  {
+    "id": 1016,
+    "name": "Craft Mine",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Craft%20Mine/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Craft%20Mine/index.html"
+  },
+  {
+    "id": 1017,
+    "name": "Doge Mining Simulator",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doge%20Mining%20Simulator/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doge%20Mining%20Simulator/index.html"
+  },
+  {
+    "id": 1018,
+    "name": "Flappy 2048",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Flappy%202048/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Flappy%202048/index.html"
+  },
+  {
+    "id": 1019,
+    "name": "Flappy Defense",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Flappy%20Defense/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Flappy%20Defense/index.html"
+  },
+  {
+    "id": 1020,
+    "name": "A Game Inside A Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/A%20Game%20Inside%20A%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/A%20Game%20Inside%20A%20Game/index.html"
+  },
+  {
+    "id": 1021,
+    "name": "Hobo",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hobo/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hobo/index.html"
+  },
+  {
+    "id": 1022,
+    "name": "Rolling Forests",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rolling%20Forests/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rolling%20Forests/index.html"
+  },
+  {
+    "id": 1023,
+    "name": "Shards",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shards/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shards/index.html"
+  },
+  {
+    "id": 1024,
+    "name": "Doge 2048",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doge%202048/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doge%202048/index.html"
+  },
+  {
+    "id": 1025,
+    "name": "Make It Meme",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Make%20It%20Meme/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Make%20It%20Meme/index.html"
+  },
+  {
+    "id": 1026,
+    "name": "Klocki",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Klocki/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Klocki/index.html"
+  },
+  {
+    "id": 1027,
+    "name": "Poly Branch",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Poly%20Branch/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Poly%20Branch/index.html"
+  },
+  {
+    "id": 1028,
+    "name": "Retro Haunt",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Retro%20Haunt/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Retro%20Haunt/index.html"
+  },
+  {
+    "id": 1029,
+    "name": "Bounce Back",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bounce%20Back/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bounce%20Back/index.html"
+  },
+  {
+    "id": 1030,
+    "name": "Color Switch 2 Challenges",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Color%20Switch%202%20Challenges/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Color%20Switch%202%20Challenges/index.html"
+  },
+  {
+    "id": 1031,
+    "name": "Shift Flash",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shift%20Flash/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shift%20Flash/index.html"
+  },
+  {
+    "id": 1032,
+    "name": "Shift Flash 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shift%20Flash%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shift%20Flash%202/index.html"
+  },
+  {
+    "id": 1033,
+    "name": "Space Huggers",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Huggers/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Huggers/index.html"
+  },
+  {
+    "id": 1034,
+    "name": "Tiny Fragments",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tiny%20Fragments/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tiny%20Fragments/index.html"
+  },
+  {
+    "id": 1035,
+    "name": "Tough Growth",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tough%20Growth/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tough%20Growth/index.html"
+  },
+  {
+    "id": 1036,
+    "name": "Yoshi's Fabrication",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Yoshi%27s%20Fabrication/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Yoshi%27s%20Fabrication/index.html"
+  },
+  {
+    "id": 1037,
+    "name": "You Are Bezos",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/You%20Are%20Bezos/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/You%20Are%20Bezos/index.html"
+  },
+  {
+    "id": 1038,
+    "name": "The little Giant",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20little%20Giant/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20little%20Giant/index.html"
+  },
+  {
+    "id": 1039,
+    "name": "Boxel Rebound",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Boxel%20Rebound/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Boxel%20Rebound/index.html"
+  },
+  {
+    "id": 1040,
+    "name": "Canyon Defense",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Canyon%20Defense/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Canyon%20Defense/index.html"
+  },
+  {
+    "id": 1041,
+    "name": "Captain Callisto",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Captain%20Callisto/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Captain%20Callisto/index.html"
+  },
+  {
+    "id": 1042,
+    "name": "Duke Dashington Remastered",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Duke%20Dashington%20Remastered/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Duke%20Dashington%20Remastered/index.html"
+  },
+  {
+    "id": 1043,
+    "name": "Gravity Soccer",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gravity%20Soccer/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gravity%20Soccer/index.html"
+  },
+  {
+    "id": 1044,
+    "name": "GrindCraft",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/GrindCraft/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/GrindCraft/index.html"
+  },
+  {
+    "id": 1045,
+    "name": "Cupcake 2048",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cupcake%202048/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cupcake%202048/index.html"
+  },
+  {
+    "id": 1046,
+    "name": "Gopher",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gopher/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gopher/index.html"
+  },
+  {
+    "id": 1047,
+    "name": "Kitchen Gun Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kitchen%20Gun%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kitchen%20Gun%20Game/index.html"
+  },
+  {
+    "id": 1048,
+    "name": "Kitten Cannon",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kitten%20Cannon/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Kitten%20Cannon/index.html"
+  },
+  {
+    "id": 1049,
+    "name": "Basket Bros 2025",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basket%20Bros%202025/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basket%20Bros%202025/index.html"
+  },
+  {
+    "id": 1050,
+    "name": "Basketball Legends 2020",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basketball%20Legends%202020/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basketball%20Legends%202020/index.html"
+  },
+  {
+    "id": 1051,
+    "name": "Meme 2048",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Meme%202048/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Meme%202048/index.html"
+  },
+  {
+    "id": 1052,
+    "name": "Green",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Green/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Green/index.html"
+  },
+  {
+    "id": 1053,
+    "name": "Hex Empire",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hex%20Empire/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hex%20Empire/index.html"
+  },
+  {
+    "id": 1054,
+    "name": "Minesweeper",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Minesweeper/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Minesweeper/index.html"
+  },
+  {
+    "id": 1055,
+    "name": "Ultimate Custom Night",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ultimate%20Custom%20Night/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ultimate%20Custom%20Night/index.html"
+  },
+  {
+    "id": 1056,
+    "name": "Marvin Spectrum",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Marvin%20Spectrum/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Marvin%20Spectrum/index.html"
+  },
+  {
+    "id": 1057,
+    "name": "Pandemic 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pandemic%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pandemic%202/index.html"
+  },
+  {
+    "id": 1058,
+    "name": "Nitro Me Must Die",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nitro%20Me%20Must%20Die/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nitro%20Me%20Must%20Die/index.html"
+  },
+  {
+    "id": 1059,
+    "name": "Golden Axe",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Golden%20Axe/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Golden%20Axe/index.html"
+  },
+  {
+    "id": 1060,
+    "name": "Cave Chaos",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cave%20Chaos/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cave%20Chaos/index.html"
+  },
+  {
+    "id": 1061,
+    "name": "Cactus McCoy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cactus%20McCoy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cactus%20McCoy/index.html"
+  },
+  {
+    "id": 1062,
+    "name": "Cactus McCoy 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cactus%20McCoy%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cactus%20McCoy%202/index.html"
+  },
+  {
+    "id": 1063,
+    "name": "Control Craft 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Control%20Craft%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Control%20Craft%202/index.html"
+  },
+  {
+    "id": 1064,
+    "name": "Epic Battle Fantasy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epic%20Battle%20Fantasy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epic%20Battle%20Fantasy/index.html"
+  },
+  {
+    "id": 1065,
+    "name": "Epic Battle Fantasy 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epic%20Battle%20Fantasy%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epic%20Battle%20Fantasy%202/index.html"
+  },
+  {
+    "id": 1066,
+    "name": "Epic Battle Fantasy 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epic%20Battle%20Fantasy%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epic%20Battle%20Fantasy%203/index.html"
+  },
+  {
+    "id": 1067,
+    "name": "Pickcrafter",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pickcrafter/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pickcrafter/index.html"
+  },
+  {
+    "id": 1068,
+    "name": "Townscaper",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Townscaper/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Townscaper/index.html"
+  },
+  {
+    "id": 1069,
+    "name": "Watermelon Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Watermelon%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Watermelon%20Game/index.html"
+  },
+  {
+    "id": 1070,
+    "name": "Mariokart 64",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mariokart%2064/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mariokart%2064/index.html"
+  },
+  {
+    "id": 1071,
+    "name": "Adventure Capitalist",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Adventure%20Capitalist/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Adventure%20Capitalist/index.html"
+  },
+  {
+    "id": 1072,
+    "name": "Feed Me",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Feed%20Me/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Feed%20Me/index.html"
+  },
+  {
+    "id": 1073,
+    "name": "Multitask",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Multitask/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Multitask/index.html"
+  },
+  {
+    "id": 1074,
+    "name": "Oodle Gobs",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Oodle%20Gobs/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Oodle%20Gobs/index.html"
+  },
+  {
+    "id": 1075,
+    "name": "Pako Highway",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pako%20Highway/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pako%20Highway/index.html"
+  },
+  {
+    "id": 1076,
+    "name": "Super Hero Drop",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Hero%20Drop/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Hero%20Drop/index.html"
+  },
+  {
+    "id": 1077,
+    "name": "Chime Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chime%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chime%20Clicker/index.html"
+  },
+  {
+    "id": 1078,
+    "name": "60s Burger Run",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/60s%20Burger%20Run/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/60s%20Burger%20Run/index.html"
+  },
+  {
+    "id": 1079,
+    "name": "FNF: Friday Night Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27/index.html"
+  },
+  {
+    "id": 1080,
+    "name": "FNF: Friday Night Funkin' Spooky Mix\ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Spooky%20Mix%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Spooky%20Mix%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1081,
+    "name": "FNF: Friday Night Funkin' Child's Play Remake",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Child%27s%20Play%20Remake/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Child%27s%20Play%20Remake/index.html"
+  },
+  {
+    "id": 1082,
+    "name": "FNF: Friday Night Funkin' HD",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20HD/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20HD/index.html"
+  },
+  {
+    "id": 1083,
+    "name": "FNF: Friday Night Funkin' RTX On",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20RTX%20On/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20RTX%20On/index.html"
+  },
+  {
+    "id": 1084,
+    "name": "FNF: Friday Night Funkin' Funkadelix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Funkadelix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Funkadelix/index.html"
+  },
+  {
+    "id": 1085,
+    "name": "FNF: Friday Night Funkin' 3x3 Remixed",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%203x3%20Remixed/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%203x3%20Remixed/index.html"
+  },
+  {
+    "id": 1086,
+    "name": "FNF: Friday Night Funkin' B-Sides",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20B-Sides/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20B-Sides/index.html"
+  },
+  {
+    "id": 1087,
+    "name": "FNF: Friday Night Funkin' From The Top!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20From%20The%20Top%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20From%20The%20Top%21/index.html"
+  },
+  {
+    "id": 1088,
+    "name": "FNF: Get Digging - Fries vs. Needle",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Get%20Digging%20-%20Fries%20vs.%20Needle/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Get%20Digging%20-%20Fries%20vs.%20Needle/index.html"
+  },
+  {
+    "id": 1089,
+    "name": "FNF: Let There Be Light",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Let%20There%20Be%20Light/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Let%20There%20Be%20Light/index.html"
+  },
+  {
+    "id": 1090,
+    "name": "FNF: FNF x Steven Universe Mod - Gem Jam",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20FNF%20x%20Steven%20Universe%20Mod%20-%20Gem%20Jam/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20FNF%20x%20Steven%20Universe%20Mod%20-%20Gem%20Jam/index.html"
+  },
+  {
+    "id": 1091,
+    "name": "FNF: Mistful Crimson Morning Reboot",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mistful%20Crimson%20Morning%20Reboot/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mistful%20Crimson%20Morning%20Reboot/index.html"
+  },
+  {
+    "id": 1092,
+    "name": "FNF: Untitled Femtanyl Mod",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Untitled%20Femtanyl%20Mod/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Untitled%20Femtanyl%20Mod/index.html"
+  },
+  {
+    "id": 1093,
+    "name": "FNF: SUPXR",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SUPXR/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SUPXR/index.html"
+  },
+  {
+    "id": 1094,
+    "name": "FNF: Vs. Momo: Ubume",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Momo_%20Ubume/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Momo_%20Ubume/index.html"
+  },
+  {
+    "id": 1095,
+    "name": "FNF: Spookyboo!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Spookyboo%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Spookyboo%21/index.html"
+  },
+  {
+    "id": 1096,
+    "name": "FNF: Fancy Funking",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Fancy%20Funking/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Fancy%20Funking/index.html"
+  },
+  {
+    "id": 1097,
+    "name": "FNF: Tetonic - Vs. Teto",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tetonic%20-%20Vs.%20Teto/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tetonic%20-%20Vs.%20Teto/index.html"
+  },
+  {
+    "id": 1098,
+    "name": "FNF: NONACCEPTANCE",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20NONACCEPTANCE/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20NONACCEPTANCE/index.html"
+  },
+  {
+    "id": 1099,
+    "name": "FNF: Darkwing Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Darkwing%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Darkwing%20Funkin%27/index.html"
+  },
+  {
+    "id": 1100,
+    "name": "FNF: Cool Pokemon Mod",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Cool%20Pokemon%20Mod/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Cool%20Pokemon%20Mod/index.html"
+  },
+  {
+    "id": 1101,
+    "name": "FNF: AKAGE",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20AKAGE/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20AKAGE/index.html"
+  },
+  {
+    "id": 1102,
+    "name": "FNF: Tabi Revival",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tabi%20Revival/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tabi%20Revival/index.html"
+  },
+  {
+    "id": 1103,
+    "name": "FNF: Creepypasta JP",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Creepypasta%20JP/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Creepypasta%20JP/index.html"
+  },
+  {
+    "id": 1104,
+    "name": "FNF: EVIL NOOB",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20EVIL%20NOOB/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20EVIL%20NOOB/index.html"
+  },
+  {
+    "id": 1105,
+    "name": "FNF: Blueballed V2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Blueballed%20V2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Blueballed%20V2/index.html"
+  },
+  {
+    "id": 1106,
+    "name": "FNF: Friday Night Dashin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Dashin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Dashin%27/index.html"
+  },
+  {
+    "id": 1107,
+    "name": "FNF: Plants Vs Rappers",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Plants%20Vs%20Rappers/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Plants%20Vs%20Rappers/index.html"
+  },
+  {
+    "id": 1108,
+    "name": "FNF: Mokey",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mokey/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mokey/index.html"
+  },
+  {
+    "id": 1109,
+    "name": "FNF: Friday Night Funkin' Lovewrec'd",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Lovewrec%27d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Lovewrec%27d/index.html"
+  },
+  {
+    "id": 1110,
+    "name": "FNF: Friday Night Funkin' D-Sides",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20D-Sides/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20D-Sides/index.html"
+  },
+  {
+    "id": 1111,
+    "name": "FNF: Friday Night Funkin' Neo",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Neo/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Neo/index.html"
+  },
+  {
+    "id": 1112,
+    "name": "FNF: Friday Night Funkin' Upside",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Upside/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Upside/index.html"
+  },
+  {
+    "id": 1113,
+    "name": "FNF: Friday Night Funkin' Beatstreets",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Beatstreets/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Beatstreets/index.html"
+  },
+  {
+    "id": 1114,
+    "name": "FNF: Friday Night Funkin' But Bad",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20But%20Bad/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20But%20Bad/index.html"
+  },
+  {
+    "id": 1115,
+    "name": "FNF: Friday Night Funkin' Gooey Mix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Gooey%20Mix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Gooey%20Mix/index.html"
+  },
+  {
+    "id": 1116,
+    "name": "FNF: Friday Night Funkin': Notice Me Senpai!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27_%20Notice%20Me%20Senpai%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27_%20Notice%20Me%20Senpai%21/index.html"
+  },
+  {
+    "id": 1117,
+    "name": "FNF: Friday Night Funkin' Deep-Sea Date",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Deep-Sea%20Date/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Deep-Sea%20Date/index.html"
+  },
+  {
+    "id": 1118,
+    "name": "FNF: Friday Night Funkin' Hellbeats",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Hellbeats/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Hellbeats/index.html"
+  },
+  {
+    "id": 1119,
+    "name": "FNF: Friday Night Funkin' Soft v1",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Soft%20v1/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Soft%20v1/index.html"
+  },
+  {
+    "id": 1120,
+    "name": "Friday Night Funkin' Starcatcher",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%27%20Starcatcher/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%27%20Starcatcher/index.html"
+  },
+  {
+    "id": 1121,
+    "name": "Friday Night Funkin' Starlight Mayhem",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%27%20Starlight%20Mayhem/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%27%20Starlight%20Mayhem/index.html"
+  },
+  {
+    "id": 1122,
+    "name": "FNF: Friday Night Funkin' FT. The Ex",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20FT.%20The%20Ex/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20FT.%20The%20Ex/index.html"
+  },
+  {
+    "id": 1123,
+    "name": "FNF: Friday Night Funkin' Cheater",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Cheater/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Cheater/index.html"
+  },
+  {
+    "id": 1124,
+    "name": "FNF: Friday Night Funkin' Hotline 024",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Hotline%20024/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Hotline%20024/index.html"
+  },
+  {
+    "id": 1125,
+    "name": "FNF: Friday Night Funkin' CG5 Edition",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20CG5%20Edition/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20CG5%20Edition/index.html"
+  },
+  {
+    "id": 1126,
+    "name": "FNF: Friday Night Funkin' Baddies",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Baddies/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Baddies/index.html"
+  },
+  {
+    "id": 1127,
+    "name": "FNF: Friday Night Funkin' Kero",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Kero/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Kero/index.html"
+  },
+  {
+    "id": 1128,
+    "name": "FNF: Friday Night Funkin': Cyber Sensation",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27_%20Cyber%20Sensation/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27_%20Cyber%20Sensation/index.html"
+  },
+  {
+    "id": 1129,
+    "name": "FNF: Friday Night Funkin' Dusttale",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Dusttale/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Dusttale/index.html"
+  },
+  {
+    "id": 1130,
+    "name": "FNF: Friday Night Funkin' Lullaby",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Lullaby/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Lullaby/index.html"
+  },
+  {
+    "id": 1131,
+    "name": "FNF: Friday Night Fever",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Fever/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Fever/index.html"
+  },
+  {
+    "id": 1132,
+    "name": "FNF: Friday Night Fever: Skelly Story",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Fever_%20Skelly%20Story/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Fever_%20Skelly%20Story/index.html"
+  },
+  {
+    "id": 1133,
+    "name": "FNF: FNF Weekly: Tweakmas",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20FNF%20Weekly_%20Tweakmas/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20FNF%20Weekly_%20Tweakmas/index.html"
+  },
+  {
+    "id": 1134,
+    "name": "FNF: Holo Night Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Holo%20Night%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Holo%20Night%20Funkin%27/index.html"
+  },
+  {
+    "id": 1135,
+    "name": "FNF: Viernes Night Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Viernes%20Night%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Viernes%20Night%20Funkin%27/index.html"
+  },
+  {
+    "id": 1136,
+    "name": "FNF: Another Friday Night",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Another%20Friday%20Night/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Another%20Friday%20Night/index.html"
+  },
+  {
+    "id": 1137,
+    "name": "FNF: Funkin' Aside",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20Aside/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20Aside/index.html"
+  },
+  {
+    "id": 1138,
+    "name": "FNF: Lite Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Lite%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Lite%20Funkin%27/index.html"
+  },
+  {
+    "id": 1139,
+    "name": "FNF: Arrow Funk",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Arrow%20Funk/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Arrow%20Funk/index.html"
+  },
+  {
+    "id": 1140,
+    "name": "FNF: VS. Whitty",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Whitty/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Whitty/index.html"
+  },
+  {
+    "id": 1141,
+    "name": "FNF: VS. Whitty Erect",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Whitty%20Erect/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Whitty%20Erect/index.html"
+  },
+  {
+    "id": 1142,
+    "name": "FNF: VS. Claire",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Claire/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Claire/index.html"
+  },
+  {
+    "id": 1143,
+    "name": "FNF: Pico Night Punkin",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pico%20Night%20Punkin/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pico%20Night%20Punkin/index.html"
+  },
+  {
+    "id": 1144,
+    "name": "FNF: VS. Neo Whitty",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Neo%20Whitty/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Neo%20Whitty/index.html"
+  },
+  {
+    "id": 1145,
+    "name": "FNF: VS. Agoti",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Agoti/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Agoti/index.html"
+  },
+  {
+    "id": 1146,
+    "name": "FNF: VS. QT: Rewired",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20QT_%20Rewired/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20QT_%20Rewired/index.html"
+  },
+  {
+    "id": 1147,
+    "name": "FNF: VS. Mami \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Mami%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Mami%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1148,
+    "name": "FNF: VS. Virus R",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Virus%20R/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Virus%20R/index.html"
+  },
+  {
+    "id": 1149,
+    "name": "FNF: VS. Pico",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Pico/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Pico/index.html"
+  },
+  {
+    "id": 1150,
+    "name": "FNF: VS. Carol",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Carol/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Carol/index.html"
+  },
+  {
+    "id": 1151,
+    "name": "FNF: VS. Retrospecter\ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Retrospecter%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Retrospecter%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1152,
+    "name": "FNF: VS. Darwi V2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Darwi%20V2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Darwi%20V2/index.html"
+  },
+  {
+    "id": 1153,
+    "name": "FNF: VS. Agoti Mic'd Up Engine",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Agoti%20Mic%27d%20Up%20Engine/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Agoti%20Mic%27d%20Up%20Engine/index.html"
+  },
+  {
+    "id": 1154,
+    "name": "FNF: VS.Peppino",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Peppino/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Peppino/index.html"
+  },
+  {
+    "id": 1155,
+    "name": "FNF: VS.Maddness Erect",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Maddness%20Erect/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Maddness%20Erect/index.html"
+  },
+  {
+    "id": 1156,
+    "name": "FNF: Sunday Night Suicide V2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sunday%20Night%20Suicide%20V2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sunday%20Night%20Suicide%20V2/index.html"
+  },
+  {
+    "id": 1157,
+    "name": "FNF: VS.Black Betrayal",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Black%20Betrayal/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Black%20Betrayal/index.html"
+  },
+  {
+    "id": 1158,
+    "name": "FNF: VS.Cheeky v3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Cheeky%20v3/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Cheeky%20v3/index.html"
+  },
+  {
+    "id": 1159,
+    "name": "FNF: VS.Trollge V2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Trollge%20V2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.Trollge%20V2/index.html"
+  },
+  {
+    "id": 1160,
+    "name": "FNF: Doki Doki Bad Ending",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Doki%20Doki%20Bad%20Ending/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Doki%20Doki%20Bad%20Ending/index.html"
+  },
+  {
+    "id": 1161,
+    "name": "FNF: CN Takeover",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CN%20Takeover/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CN%20Takeover/index.html"
+  },
+  {
+    "id": 1162,
+    "name": "FNF: VS. Impostor",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Impostor/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Impostor/index.html"
+  },
+  {
+    "id": 1163,
+    "name": "FNF: VS. Big Brother",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Big%20Brother/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Big%20Brother/index.html"
+  },
+  {
+    "id": 1164,
+    "name": "FNF: VS. Camellia",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Camellia/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Camellia/index.html"
+  },
+  {
+    "id": 1165,
+    "name": "FNF: VS. Accelerant Hank, but all bullets",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Accelerant%20Hank%2C%20but%20all%20bullets/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Accelerant%20Hank%2C%20but%20all%20bullets/index.html"
+  },
+  {
+    "id": 1166,
+    "name": "FNF: VS. Annie",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Annie/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Annie/index.html"
+  },
+  {
+    "id": 1167,
+    "name": "FNF: VS. Hatsune Miku",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Hatsune%20Miku/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Hatsune%20Miku/index.html"
+  },
+  {
+    "id": 1168,
+    "name": "FNF: VS. Chara",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Chara/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Chara/index.html"
+  },
+  {
+    "id": 1169,
+    "name": "FNF: VS. K.K. Slider",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20K.K.%20Slider/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20K.K.%20Slider/index.html"
+  },
+  {
+    "id": 1170,
+    "name": "FNF: VS. Super Idol",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Super%20Idol/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Super%20Idol/index.html"
+  },
+  {
+    "id": 1171,
+    "name": "FNF: VS. FNAF 3 \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20FNAF%203%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20FNAF%203%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1172,
+    "name": "FNF: VS. Sky",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sky/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sky/index.html"
+  },
+  {
+    "id": 1173,
+    "name": "FNF: VS. 'FNF Kid'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20%27FNF%20Kid%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20%27FNF%20Kid%27/index.html"
+  },
+  {
+    "id": 1174,
+    "name": "FNF: VS. Lime Green Imposter (Imposter v5 April Fools Week)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Lime%20Green%20Imposter%20%28Imposter%20v5%20April%20Fools%20Week%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Lime%20Green%20Imposter%20%28Imposter%20v5%20April%20Fools%20Week%29/index.html"
+  },
+  {
+    "id": 1175,
+    "name": "FNF: VS. Sonic.exe \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sonic.exe%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sonic.exe%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1176,
+    "name": "FNF: VS. Nero",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Nero/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Nero/index.html"
+  },
+  {
+    "id": 1177,
+    "name": "FNF: VS. Ron  \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Ron%20%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Ron%20%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1178,
+    "name": "FNF: VS. Rika",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Rika/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Rika/index.html"
+  },
+  {
+    "id": 1179,
+    "name": "FNF: VS. Speedrunner Mario",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Speedrunner%20Mario/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Speedrunner%20Mario/index.html"
+  },
+  {
+    "id": 1180,
+    "name": "FNF: VS. King",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20King/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20King/index.html"
+  },
+  {
+    "id": 1181,
+    "name": "FNF: VS. Hex",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Hex/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Hex/index.html"
+  },
+  {
+    "id": 1182,
+    "name": "FNF: VS. Slenderman",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Slenderman/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Slenderman/index.html"
+  },
+  {
+    "id": 1183,
+    "name": "FNF: VS. Sunday",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sunday/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sunday/index.html"
+  },
+  {
+    "id": 1184,
+    "name": "FNF: VS. Corrupted Tankman",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Corrupted%20Tankman/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Corrupted%20Tankman/index.html"
+  },
+  {
+    "id": 1185,
+    "name": "FNF: VS. Shaggy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Shaggy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Shaggy/index.html"
+  },
+  {
+    "id": 1186,
+    "name": "FNF: VS. Nonsense",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Nonsense/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Nonsense/index.html"
+  },
+  {
+    "id": 1187,
+    "name": "FNF: VS. Spong",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Spong/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Spong/index.html"
+  },
+  {
+    "id": 1188,
+    "name": "FNF: VS. Timmy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Timmy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Timmy/index.html"
+  },
+  {
+    "id": 1189,
+    "name": "FNF: VS. Tord",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Tord/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Tord/index.html"
+  },
+  {
+    "id": 1190,
+    "name": "FNF: VS. Tabi",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Tabi/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Tabi/index.html"
+  },
+  {
+    "id": 1191,
+    "name": "FNF: VS. QT",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20QT/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20QT/index.html"
+  },
+  {
+    "id": 1192,
+    "name": "FNF: VS. Doxxie",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Doxxie/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Doxxie/index.html"
+  },
+  {
+    "id": 1193,
+    "name": "FNF: VS. Zardy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Zardy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Zardy/index.html"
+  },
+  {
+    "id": 1194,
+    "name": "FNF: CORROSION",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CORROSION/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CORROSION/index.html"
+  },
+  {
+    "id": 1195,
+    "name": "FNF: CORROSION V2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CORROSION%20V2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CORROSION%20V2/index.html"
+  },
+  {
+    "id": 1196,
+    "name": "FNF: Twiddlefinger",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Twiddlefinger/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Twiddlefinger/index.html"
+  },
+  {
+    "id": 1197,
+    "name": "FNF: ANOTHERBROTHER",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20ANOTHERBROTHER/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20ANOTHERBROTHER/index.html"
+  },
+  {
+    "id": 1198,
+    "name": "FNF: HORKGLORPGLOOP",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20HORKGLORPGLOOP/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20HORKGLORPGLOOP/index.html"
+  },
+  {
+    "id": 1199,
+    "name": "FNF: Konton Boogie \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Konton%20Boogie%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Konton%20Boogie%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1200,
+    "name": "FNF: Bob and Bosip: The EX Update",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Bob%20and%20Bosip_%20The%20EX%20Update/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Bob%20and%20Bosip_%20The%20EX%20Update/index.html"
+  },
+  {
+    "id": 1201,
+    "name": "FNF: Dave and Bambi Golden Apple \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Dave%20and%20Bambi%20Golden%20Apple%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Dave%20and%20Bambi%20Golden%20Apple%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1202,
+    "name": "FNF: Nyaw Erect",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Nyaw%20Erect/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Nyaw%20Erect/index.html"
+  },
+  {
+    "id": 1203,
+    "name": "FNF: VS. Tabi: Pico Mix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Tabi_%20Pico%20Mix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Tabi_%20Pico%20Mix/index.html"
+  },
+  {
+    "id": 1204,
+    "name": "FNF: Silly Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Silly%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Silly%20Funkin%27/index.html"
+  },
+  {
+    "id": 1205,
+    "name": "FNF: Strident Crisis",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Strident%20Crisis/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Strident%20Crisis/index.html"
+  },
+  {
+    "id": 1206,
+    "name": "FNF: Spookys Saturday Scare",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Spookys%20Saturday%20Scare/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Spookys%20Saturday%20Scare/index.html"
+  },
+  {
+    "id": 1207,
+    "name": "FNF: Scratch Cat",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Scratch%20Cat/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Scratch%20Cat/index.html"
+  },
+  {
+    "id": 1208,
+    "name": "FNF: Aflac Remaster",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Aflac%20Remaster/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Aflac%20Remaster/index.html"
+  },
+  {
+    "id": 1209,
+    "name": "FNF: Mario's Madness V2 \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mario%27s%20Madness%20V2%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mario%27s%20Madness%20V2%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1210,
+    "name": "FNF: Voiid Chronicles \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Voiid%20Chronicles%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Voiid%20Chronicles%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1211,
+    "name": "FNF: Yeah! - Internet Oneshot",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Yeah%21%20-%20Internet%20Oneshot/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Yeah%21%20-%20Internet%20Oneshot/index.html"
+  },
+  {
+    "id": 1212,
+    "name": "FNF: Madness Incident: 0201A",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Madness%20Incident_%200201A/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Madness%20Incident_%200201A/index.html"
+  },
+  {
+    "id": 1213,
+    "name": "FNF: Nusky",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Nusky/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Nusky/index.html"
+  },
+  {
+    "id": 1214,
+    "name": "FNF: Grafitti Groovin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Grafitti%20Groovin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Grafitti%20Groovin%27/index.html"
+  },
+  {
+    "id": 1215,
+    "name": "FNF: The Full-Ass Tricky Mod \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Full-Ass%20Tricky%20Mod%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Full-Ass%20Tricky%20Mod%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1216,
+    "name": "FNF: 17Bucks",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%2017Bucks/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%2017Bucks/index.html"
+  },
+  {
+    "id": 1217,
+    "name": "FNF: Indie Cross \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Indie%20Cross%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Indie%20Cross%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1218,
+    "name": "FNF: 2Hot: Freestyle",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%202Hot_%20Freestyle/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%202Hot_%20Freestyle/index.html"
+  },
+  {
+    "id": 1219,
+    "name": "FNF: 2Hot: BF Mix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%202Hot_%20BF%20Mix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%202Hot_%20BF%20Mix/index.html"
+  },
+  {
+    "id": 1220,
+    "name": "FNF: Spongebob's Classic Showdown",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Spongebob%27s%20Classic%20Showdown/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Spongebob%27s%20Classic%20Showdown/index.html"
+  },
+  {
+    "id": 1221,
+    "name": "FNF: Next Out of Robloxia",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Next%20Out%20of%20Robloxia/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Next%20Out%20of%20Robloxia/index.html"
+  },
+  {
+    "id": 1222,
+    "name": "FNF: Hatsune Miku: Project Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hatsune%20Miku_%20Project%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hatsune%20Miku_%20Project%20Funkin%27/index.html"
+  },
+  {
+    "id": 1223,
+    "name": "FNF: Bopcity",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Bopcity/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Bopcity/index.html"
+  },
+  {
+    "id": 1224,
+    "name": "FNF: Arcade Showdown",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Arcade%20Showdown/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Arcade%20Showdown/index.html"
+  },
+  {
+    "id": 1225,
+    "name": "FNF: Beats and Treats",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Beats%20and%20Treats/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Beats%20and%20Treats/index.html"
+  },
+  {
+    "id": 1226,
+    "name": "FNF: Pibby Corrupted \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Corrupted%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Corrupted%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1227,
+    "name": "FNF: Jeffy's Endless Aethos",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Jeffy%27s%20Endless%20Aethos/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Jeffy%27s%20Endless%20Aethos/index.html"
+  },
+  {
+    "id": 1228,
+    "name": "FNF: Shucks v2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Shucks%20v2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Shucks%20v2/index.html"
+  },
+  {
+    "id": 1229,
+    "name": "FNF: Hazy River",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hazy%20River/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hazy%20River/index.html"
+  },
+  {
+    "id": 1230,
+    "name": "FNF: Twinsomnia",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Twinsomnia/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Twinsomnia/index.html"
+  },
+  {
+    "id": 1231,
+    "name": "FNF: Breaking Point",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Breaking%20Point/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Breaking%20Point/index.html"
+  },
+  {
+    "id": 1232,
+    "name": "FNF: Mid Fight Masses",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mid%20Fight%20Masses/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mid%20Fight%20Masses/index.html"
+  },
+  {
+    "id": 1233,
+    "name": "FNF: Tales from the Treehouse",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tales%20from%20the%20Treehouse/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Tales%20from%20the%20Treehouse/index.html"
+  },
+  {
+    "id": 1234,
+    "name": "FNF: Sideline Blitz",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sideline%20Blitz/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sideline%20Blitz/index.html"
+  },
+  {
+    "id": 1235,
+    "name": "FNF: The Date Week",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Date%20Week/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Date%20Week/index.html"
+  },
+  {
+    "id": 1236,
+    "name": "FNF: Yeahman!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Yeahman%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Yeahman%21/index.html"
+  },
+  {
+    "id": 1237,
+    "name": "FNF: Steven Universe Mini Mod Pack",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Steven%20Universe%20Mini%20Mod%20Pack/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Steven%20Universe%20Mini%20Mod%20Pack/index.html"
+  },
+  {
+    "id": 1238,
+    "name": "FNF: Roastin' on a Cartoon Cartoon Friday",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Roastin%27%20on%20a%20Cartoon%20Cartoon%20Friday/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Roastin%27%20on%20a%20Cartoon%20Cartoon%20Friday/index.html"
+  },
+  {
+    "id": 1239,
+    "name": "FNF: Beach Party",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Beach%20Party/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Beach%20Party/index.html"
+  },
+  {
+    "id": 1240,
+    "name": "FNF: Chaos Nightmare",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Chaos%20Nightmare/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Chaos%20Nightmare/index.html"
+  },
+  {
+    "id": 1241,
+    "name": "FNF: Sprunkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sprunkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sprunkin%27/index.html"
+  },
+  {
+    "id": 1242,
+    "name": "FNF: Funkin' for Hire",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20for%20Hire/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20for%20Hire/index.html"
+  },
+  {
+    "id": 1243,
+    "name": "FNF: Funkin' Peanuts",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20Peanuts/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20Peanuts/index.html"
+  },
+  {
+    "id": 1244,
+    "name": "FNF: Another Atrocity Fanmod",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Another%20Atrocity%20Fanmod/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Another%20Atrocity%20Fanmod/index.html"
+  },
+  {
+    "id": 1245,
+    "name": "FNF: Mistful Crimson Morning",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mistful%20Crimson%20Morning/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mistful%20Crimson%20Morning/index.html"
+  },
+  {
+    "id": 1246,
+    "name": "FNF: The X-Event",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20X-Event/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20X-Event/index.html"
+  },
+  {
+    "id": 1247,
+    "name": "FNF: Starving Artist",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Starving%20Artist/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Starving%20Artist/index.html"
+  },
+  {
+    "id": 1248,
+    "name": "FNF: Flavor Rave",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Flavor%20Rave/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Flavor%20Rave/index.html"
+  },
+  {
+    "id": 1249,
+    "name": "FNF: RoFNF Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20RoFNF%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20RoFNF%20Funkin%27/index.html"
+  },
+  {
+    "id": 1250,
+    "name": "FNF: Baldi's Basics in Funkin'",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Baldi%27s%20Basics%20in%20Funkin%27/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Baldi%27s%20Basics%20in%20Funkin%27/index.html"
+  },
+  {
+    "id": 1251,
+    "name": "FNF: Deb8",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Deb8/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Deb8/index.html"
+  },
+  {
+    "id": 1252,
+    "name": "FNF: Killshot",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Killshot/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Killshot/index.html"
+  },
+  {
+    "id": 1253,
+    "name": "FNF: 13th Night Funk Blood\ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%2013th%20Night%20Funk%20Blood%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%2013th%20Night%20Funk%20Blood%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1254,
+    "name": "FNF: Lobotomy Dash Funkin' \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Lobotomy%20Dash%20Funkin%27%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Lobotomy%20Dash%20Funkin%27%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1255,
+    "name": "FNF: Gamblecore",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Gamblecore/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Gamblecore/index.html"
+  },
+  {
+    "id": 1256,
+    "name": "FNF: Parkpass",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Parkpass/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Parkpass/index.html"
+  },
+  {
+    "id": 1257,
+    "name": "FNF: OK K.O.! Let's Get Funky!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20OK%20K.O.%21%20Let%27s%20Get%20Funky%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20OK%20K.O.%21%20Let%27s%20Get%20Funky%21/index.html"
+  },
+  {
+    "id": 1258,
+    "name": "FNF: Hell Allany",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hell%20Allany/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hell%20Allany/index.html"
+  },
+  {
+    "id": 1259,
+    "name": "FNF: Darkness Takeover vs Pibby Family Guy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Darkness%20Takeover%20vs%20Pibby%20Family%20Guy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Darkness%20Takeover%20vs%20Pibby%20Family%20Guy/index.html"
+  },
+  {
+    "id": 1260,
+    "name": "FNF: SMW: Power Star Melody",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SMW_%20Power%20Star%20Melody/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SMW_%20Power%20Star%20Melody/index.html"
+  },
+  {
+    "id": 1261,
+    "name": "FNF: COME OUT TO PLAY - Vs. MC-X",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20COME%20OUT%20TO%20PLAY%20-%20Vs.%20MC-X/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20COME%20OUT%20TO%20PLAY%20-%20Vs.%20MC-X/index.html"
+  },
+  {
+    "id": 1262,
+    "name": "FNF: FNF Vs Bad Piggies (Ross V2)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20FNF%20Vs%20Bad%20Piggies%20%28Ross%20V2%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20FNF%20Vs%20Bad%20Piggies%20%28Ross%20V2%29/index.html"
+  },
+  {
+    "id": 1263,
+    "name": "FNF: Funkin' In The Galaxy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20In%20The%20Galaxy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20In%20The%20Galaxy/index.html"
+  },
+  {
+    "id": 1264,
+    "name": "FNF: Funkin'Herobrine Reborn",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27Herobrine%20Reborn/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27Herobrine%20Reborn/index.html"
+  },
+  {
+    "id": 1265,
+    "name": "FNF: Pibby Legacy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Legacy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Legacy/index.html"
+  },
+  {
+    "id": 1266,
+    "name": "FNF: Vs.Undertale",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.Undertale/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.Undertale/index.html"
+  },
+  {
+    "id": 1267,
+    "name": "FNF: BFDI 26",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20BFDI%2026/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20BFDI%2026/index.html"
+  },
+  {
+    "id": 1268,
+    "name": "FNF: The Return Funkin' Whitty Demo",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Return%20Funkin%27%20Whitty%20Demo/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Return%20Funkin%27%20Whitty%20Demo/index.html"
+  },
+  {
+    "id": 1269,
+    "name": "FNF: Bob's Onslaught",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Bob%27s%20Onslaught/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Bob%27s%20Onslaught/index.html"
+  },
+  {
+    "id": 1270,
+    "name": "FNF: SMB Funk Mix DX",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SMB%20Funk%20Mix%20DX/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SMB%20Funk%20Mix%20DX/index.html"
+  },
+  {
+    "id": 1271,
+    "name": "FNF: SMB Funk Mix DX Game Over",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SMB%20Funk%20Mix%20DX%20Game%20Over/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20SMB%20Funk%20Mix%20DX%20Game%20Over/index.html"
+  },
+  {
+    "id": 1272,
+    "name": "FNF: Salty's Sunday Night",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Salty%27s%20Sunday%20Night/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Salty%27s%20Sunday%20Night/index.html"
+  },
+  {
+    "id": 1273,
+    "name": "FNF: Fuckin Funkin' with Koi",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Fuckin%20Funkin%27%20with%20Koi/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Fuckin%20Funkin%27%20with%20Koi/index.html"
+  },
+  {
+    "id": 1274,
+    "name": "FNF: Doki Doki Takeover Plus !",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Doki%20Doki%20Takeover%20Plus%20%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Doki%20Doki%20Takeover%20Plus%20%21/index.html"
+  },
+  {
+    "id": 1275,
+    "name": "FNF: MiFunkSide",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20MiFunkSide/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20MiFunkSide/index.html"
+  },
+  {
+    "id": 1276,
+    "name": "FNF: Cartoon Clash",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Cartoon%20Clash/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Cartoon%20Clash/index.html"
+  },
+  {
+    "id": 1277,
+    "name": "FNF: Silly Billy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Silly%20Billy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Silly%20Billy/index.html"
+  },
+  {
+    "id": 1278,
+    "name": "FNF: Secret Histories",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Secret%20Histories/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Secret%20Histories/index.html"
+  },
+  {
+    "id": 1279,
+    "name": "FNF: The Squidward Tricky Mod \ufe0f",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Squidward%20Tricky%20Mod%20%EF%B8%8F/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Squidward%20Tricky%20Mod%20%EF%B8%8F/index.html"
+  },
+  {
+    "id": 1280,
+    "name": "FNF: The Impossible Trio",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Impossible%20Trio/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Impossible%20Trio/index.html"
+  },
+  {
+    "id": 1281,
+    "name": "FNF: Doubling Down",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Doubling%20Down/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Doubling%20Down/index.html"
+  },
+  {
+    "id": 1282,
+    "name": "FNF: MOB MOD",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20MOB%20MOD/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20MOB%20MOD/index.html"
+  },
+  {
+    "id": 1283,
+    "name": "FNF: Digitalizing 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Digitalizing%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Digitalizing%202/index.html"
+  },
+  {
+    "id": 1284,
+    "name": "FNF: The Gacha Mod",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Gacha%20Mod/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Gacha%20Mod/index.html"
+  },
+  {
+    "id": 1285,
+    "name": "FNF: Golf Minigame",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Golf%20Minigame/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Golf%20Minigame/index.html"
+  },
+  {
+    "id": 1286,
+    "name": "FNF: Funkin' for a BFDI",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20for%20a%20BFDI/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%27%20for%20a%20BFDI/index.html"
+  },
+  {
+    "id": 1287,
+    "name": "FNF: Smoke Em' Out Struggle",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Smoke%20Em%27%20Out%20Struggle/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Smoke%20Em%27%20Out%20Struggle/index.html"
+  },
+  {
+    "id": 1288,
+    "name": "FNF: Wii Funkin' REV-MIX",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Wii%20Funkin%27%20REV-MIX/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Wii%20Funkin%27%20REV-MIX/index.html"
+  },
+  {
+    "id": 1289,
+    "name": "FNF: Wii Funkin' B-Sides",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Wii%20Funkin%27%20B-Sides/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Wii%20Funkin%27%20B-Sides/index.html"
+  },
+  {
+    "id": 1290,
+    "name": "FNF: Wii Funkin' Wiik 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Wii%20Funkin%27%20Wiik%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Wii%20Funkin%27%20Wiik%203/index.html"
+  },
+  {
+    "id": 1291,
+    "name": "FNF: Krusty Karoling",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Krusty%20Karoling/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Krusty%20Karoling/index.html"
+  },
+  {
+    "id": 1292,
+    "name": "FNF: Funk! Miss Nagatoro",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funk%21%20Miss%20Nagatoro/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funk%21%20Miss%20Nagatoro/index.html"
+  },
+  {
+    "id": 1293,
+    "name": "FNF: Pibby Apocalypse",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Apocalypse/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Apocalypse/index.html"
+  },
+  {
+    "id": 1294,
+    "name": "FNF: Corruption Invasion",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Corruption%20Invasion/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Corruption%20Invasion/index.html"
+  },
+  {
+    "id": 1295,
+    "name": "Fancy Pants World 1 Remix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20World%201%20Remix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20World%201%20Remix/index.html"
+  },
+  {
+    "id": 1296,
+    "name": "3 line",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/3%20line/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/3%20line/index.html"
+  },
+  {
+    "id": 1297,
+    "name": "Balloon Run",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Balloon%20Run/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Balloon%20Run/index.html"
+  },
+  {
+    "id": 1298,
+    "name": "Big Red Button",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Big%20Red%20Button/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Big%20Red%20Button/index.html"
+  },
+  {
+    "id": 1299,
+    "name": "Bike Champ",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bike%20Champ/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bike%20Champ/index.html"
+  },
+  {
+    "id": 1300,
+    "name": "Bubble Spinner",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Spinner/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bubble%20Spinner/index.html"
+  },
+  {
+    "id": 1301,
+    "name": "Canopy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Canopy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Canopy/index.html"
+  },
+  {
+    "id": 1302,
+    "name": "Celeste (PICO 8)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Celeste%20%28PICO%208%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Celeste%20%28PICO%208%29/index.html"
+  },
+  {
+    "id": 1303,
+    "name": "Chisel",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chisel/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chisel/index.html"
+  },
+  {
+    "id": 1304,
+    "name": "Chisel 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chisel%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chisel%202/index.html"
+  },
+  {
+    "id": 1305,
+    "name": "ABCya! Coin",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/ABCya%21%20Coin/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/ABCya%21%20Coin/index.html"
+  },
+  {
+    "id": 1306,
+    "name": "Burger And Frights",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Burger%20And%20Frights/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Burger%20And%20Frights/index.html"
+  },
+  {
+    "id": 1307,
+    "name": "Crash Bandicoot: The Wrath of Cortex",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Crash%20Bandicoot_%20The%20Wrath%20of%20Cortex/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Crash%20Bandicoot_%20The%20Wrath%20of%20Cortex/index.html"
+  },
+  {
+    "id": 1308,
+    "name": "Geometry Dash Lite",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash%20Lite/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash%20Lite/index.html"
+  },
+  {
+    "id": 1309,
+    "name": "Geometry Dash (Fake)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash%20%28Fake%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash%20%28Fake%29/index.html"
+  },
+  {
+    "id": 1310,
+    "name": "Geometry Rash",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Rash/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Rash/index.html"
+  },
+  {
+    "id": 1311,
+    "name": "Brave Explorers",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Brave%20Explorers/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Brave%20Explorers/index.html"
+  },
+  {
+    "id": 1312,
+    "name": "Glass City",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Glass%20City/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Glass%20City/index.html"
+  },
+  {
+    "id": 1313,
+    "name": "Go Ball",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Go%20Ball/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Go%20Ball/index.html"
+  },
+  {
+    "id": 1314,
+    "name": "Push Your Luck",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Push%20Your%20Luck/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Push%20Your%20Luck/index.html"
+  },
+  {
+    "id": 1315,
+    "name": "Scratch RPG By Jalen",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Scratch%20RPG%20By%20Jalen/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Scratch%20RPG%20By%20Jalen/index.html"
+  },
+  {
+    "id": 1316,
+    "name": "Spelunky",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Spelunky/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Spelunky/index.html"
+  },
+  {
+    "id": 1317,
+    "name": "Swerve",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Swerve/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Swerve/index.html"
+  },
+  {
+    "id": 1318,
+    "name": "Synesthesia",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Synesthesia/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Synesthesia/index.html"
+  },
+  {
+    "id": 1319,
+    "name": "Tactical Assasin2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tactical%20Assasin2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tactical%20Assasin2/index.html"
+  },
+  {
+    "id": 1320,
+    "name": "Adrenaline Challenge",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Adrenaline%20Challenge/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Adrenaline%20Challenge/index.html"
+  },
+  {
+    "id": 1321,
+    "name": "Back Country",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Back%20Country/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Back%20Country/index.html"
+  },
+  {
+    "id": 1322,
+    "name": "Champion Archer",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Champion%20Archer/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Champion%20Archer/index.html"
+  },
+  {
+    "id": 1323,
+    "name": "Endless War 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Endless%20War%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Endless%20War%203/index.html"
+  },
+  {
+    "id": 1324,
+    "name": "Finns Fantastic Food Machine",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Finns%20Fantastic%20Food%20Machine/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Finns%20Fantastic%20Food%20Machine/index.html"
+  },
+  {
+    "id": 1325,
+    "name": "2d rocket league",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/2d%20rocket%20league/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/2d%20rocket%20league/index.html"
+  },
+  {
+    "id": 1326,
+    "name": "a dark room",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/a%20dark%20room/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/a%20dark%20room/index.html"
+  },
+  {
+    "id": 1327,
+    "name": "age of war",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/age%20of%20war/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/age%20of%20war/index.html"
+  },
+  {
+    "id": 1328,
+    "name": "Amazing Rope Police",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Amazing%20Rope%20Police/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Amazing%20Rope%20Police/index.html"
+  },
+  {
+    "id": 1329,
+    "name": "Amorphous",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Amorphous/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Amorphous/index.html"
+  },
+  {
+    "id": 1330,
+    "name": "Angry Birds Rio",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Angry%20Birds%20Rio/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Angry%20Birds%20Rio/index.html"
+  },
+  {
+    "id": 1331,
+    "name": "Angry Birds Space",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Angry%20Birds%20Space/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Angry%20Birds%20Space/index.html"
+  },
+  {
+    "id": 1332,
+    "name": "Astray",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Astray/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Astray/index.html"
+  },
+  {
+    "id": 1333,
+    "name": "Avalanche",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Avalanche/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Avalanche/index.html"
+  },
+  {
+    "id": 1334,
+    "name": "Backflip Dive 3d",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Backflip%20Dive%203d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Backflip%20Dive%203d/index.html"
+  },
+  {
+    "id": 1335,
+    "name": "Binding Of Isaac",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Binding%20Of%20Isaac/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Binding%20Of%20Isaac/index.html"
+  },
+  {
+    "id": 1336,
+    "name": "Blood Tournament",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Blood%20Tournament/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Blood%20Tournament/index.html"
+  },
+  {
+    "id": 1337,
+    "name": "Bloons",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons/index.html"
+  },
+  {
+    "id": 1338,
+    "name": "Boxing Physics 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Boxing%20Physics%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Boxing%20Physics%202/index.html"
+  },
+  {
+    "id": 1339,
+    "name": "Breaking The Bank",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Breaking%20The%20Bank/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Breaking%20The%20Bank/index.html"
+  },
+  {
+    "id": 1340,
+    "name": "Breakout",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Breakout/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Breakout/index.html"
+  },
+  {
+    "id": 1341,
+    "name": "Candy Clicker By Jalen",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Candy%20Clicker%20By%20Jalen/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Candy%20Clicker%20By%20Jalen/index.html"
+  },
+  {
+    "id": 1342,
+    "name": "FNF: GUMMIBAR!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20GUMMIBAR%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20GUMMIBAR%21/index.html"
+  },
+  {
+    "id": 1343,
+    "name": "Champion Island",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Champion%20Island/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Champion%20Island/index.html"
+  },
+  {
+    "id": 1344,
+    "name": "Chess",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chess/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chess/index.html"
+  },
+  {
+    "id": 1345,
+    "name": "Choose Your Weapon",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%20%28611%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%20%28611%29/index.html"
+  },
+  {
+    "id": 1346,
+    "name": "Choose Your Weapon",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%20%28913%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%20%28913%29/index.html"
+  },
+  {
+    "id": 1347,
+    "name": "Choose Your Weapon 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%202%20%28612%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%202%20%28612%29/index.html"
+  },
+  {
+    "id": 1348,
+    "name": "Choose Your Weapon 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%202%20%28914%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%202%20%28914%29/index.html"
+  },
+  {
+    "id": 1349,
+    "name": "Choose Your Weapon 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%203%20%28613%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%203%20%28613%29/index.html"
+  },
+  {
+    "id": 1350,
+    "name": "Choose Your Weapon 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%203%20%28915%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Choose%20Your%20Weapon%203%20%28915%29/index.html"
+  },
+  {
+    "id": 1351,
+    "name": "Chrome Dino",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chrome%20Dino/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Chrome%20Dino/index.html"
+  },
+  {
+    "id": 1352,
+    "name": "Clicker Heroes",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Clicker%20Heroes/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Clicker%20Heroes/index.html"
+  },
+  {
+    "id": 1353,
+    "name": "Color Switch",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Color%20Switch/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Color%20Switch/index.html"
+  },
+  {
+    "id": 1354,
+    "name": "Commodore Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Commodore%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Commodore%20Clicker/index.html"
+  },
+  {
+    "id": 1355,
+    "name": "Cookie Clicker Classic",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cookie%20Clicker%20Classic/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cookie%20Clicker%20Classic/index.html"
+  },
+  {
+    "id": 1356,
+    "name": "Creative Kill Chamber",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Creative%20Kill%20Chamber/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Creative%20Kill%20Chamber/index.html"
+  },
+  {
+    "id": 1357,
+    "name": "CSGO Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/CSGO%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/CSGO%20Clicker/index.html"
+  },
+  {
+    "id": 1358,
+    "name": "Dirt Racers",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dirt%20Racers/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dirt%20Racers/index.html"
+  },
+  {
+    "id": 1359,
+    "name": "DragonBall Devolution",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/DragonBall%20Devolution/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/DragonBall%20Devolution/index.html"
+  },
+  {
+    "id": 1360,
+    "name": "Duck life 5 Treasure Hunt",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Duck%20life%205%20Treasure%20Hunt/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Duck%20life%205%20Treasure%20Hunt/index.html"
+  },
+  {
+    "id": 1361,
+    "name": "Dungeon Craft",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dungeon%20Craft/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dungeon%20Craft/index.html"
+  },
+  {
+    "id": 1362,
+    "name": "Electricman 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Electricman%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Electricman%202/index.html"
+  },
+  {
+    "id": 1363,
+    "name": "Escaping The Prison",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Escaping%20The%20Prison/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Escaping%20The%20Prison/index.html"
+  },
+  {
+    "id": 1364,
+    "name": "Evolution",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Evolution/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Evolution/index.html"
+  },
+  {
+    "id": 1365,
+    "name": "Factory Balls",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Factory%20Balls/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Factory%20Balls/index.html"
+  },
+  {
+    "id": 1366,
+    "name": "Factory Balls Forever",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Factory%20Balls%20Forever/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Factory%20Balls%20Forever/index.html"
+  },
+  {
+    "id": 1367,
+    "name": "Fancy Pants Adventures",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20Adventures/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20Adventures/index.html"
+  },
+  {
+    "id": 1368,
+    "name": "Fancy Pants Adventures 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20Adventures%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20Adventures%202/index.html"
+  },
+  {
+    "id": 1369,
+    "name": "Fancy Pants Adventures 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20Adventures%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fancy%20Pants%20Adventures%203/index.html"
+  },
+  {
+    "id": 1370,
+    "name": "Fireboy and Watergirl 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fireboy%20and%20Watergirl%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fireboy%20and%20Watergirl%204/index.html"
+  },
+  {
+    "id": 1371,
+    "name": "fleeing The Complex",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/fleeing%20The%20Complex/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/fleeing%20The%20Complex/index.html"
+  },
+  {
+    "id": 1372,
+    "name": "Flippy Fish",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Flippy%20Fish/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Flippy%20Fish/index.html"
+  },
+  {
+    "id": 1373,
+    "name": "Floodrunner 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Floodrunner%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Floodrunner%202/index.html"
+  },
+  {
+    "id": 1374,
+    "name": "Floodrunner 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Floodrunner%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Floodrunner%203/index.html"
+  },
+  {
+    "id": 1375,
+    "name": "Fluidsim",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fluidsim/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Fluidsim/index.html"
+  },
+  {
+    "id": 1376,
+    "name": "Free Rider 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Free%20Rider%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Free%20Rider%202/index.html"
+  },
+  {
+    "id": 1377,
+    "name": "Frost Bite",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Frost%20Bite/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Frost%20Bite/index.html"
+  },
+  {
+    "id": 1378,
+    "name": "Frost Bite 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Frost%20Bite%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Frost%20Bite%202/index.html"
+  },
+  {
+    "id": 1379,
+    "name": "Funny Ball Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Ball%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Ball%20Game/index.html"
+  },
+  {
+    "id": 1380,
+    "name": "Funny Mad Racing",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Mad%20Racing/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Mad%20Racing/index.html"
+  },
+  {
+    "id": 1381,
+    "name": "Funny Shooter",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Shooter/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Shooter/index.html"
+  },
+  {
+    "id": 1382,
+    "name": "Funny Shooter 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Shooter%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Funny%20Shooter%202/index.html"
+  },
+  {
+    "id": 1383,
+    "name": "Game Maker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Game%20Maker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Game%20Maker/index.html"
+  },
+  {
+    "id": 1384,
+    "name": "Gumball Splash Master",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gumball%20Splash%20Master/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gumball%20Splash%20Master/index.html"
+  },
+  {
+    "id": 1385,
+    "name": "Gun Mayhem",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gun%20Mayhem/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gun%20Mayhem/index.html"
+  },
+  {
+    "id": 1386,
+    "name": "Gun Mayhem 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gun%20Mayhem%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gun%20Mayhem%202/index.html"
+  },
+  {
+    "id": 1387,
+    "name": "Hacker Type",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hacker%20Type/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Hacker%20Type/index.html"
+  },
+  {
+    "id": 1388,
+    "name": "Happy Hop",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Happy%20Hop/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Happy%20Hop/index.html"
+  },
+  {
+    "id": 1389,
+    "name": "Helicopter",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Helicopter/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Helicopter/index.html"
+  },
+  {
+    "id": 1390,
+    "name": "Helix Jump",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Helix%20Jump/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Helix%20Jump/index.html"
+  },
+  {
+    "id": 1391,
+    "name": "Idle Shark",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Idle%20Shark/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Idle%20Shark/index.html"
+  },
+  {
+    "id": 1392,
+    "name": "Infinite Craft",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Infinite%20Craft/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Infinite%20Craft/index.html"
+  },
+  {
+    "id": 1393,
+    "name": "Jelly Truck",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jelly%20Truck/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jelly%20Truck/index.html"
+  },
+  {
+    "id": 1394,
+    "name": "Just One Boss",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Just%20One%20Boss/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Just%20One%20Boss/index.html"
+  },
+  {
+    "id": 1395,
+    "name": "Knife Hit",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Knife%20Hit/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Knife%20Hit/index.html"
+  },
+  {
+    "id": 1396,
+    "name": "last Horizon",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/last%20Horizon/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/last%20Horizon/index.html"
+  },
+  {
+    "id": 1397,
+    "name": "lazy Jump 3d",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/lazy%20Jump%203d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/lazy%20Jump%203d/index.html"
+  },
+  {
+    "id": 1398,
+    "name": "lows Adventures 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/lows%20Adventures%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/lows%20Adventures%202/index.html"
+  },
+  {
+    "id": 1399,
+    "name": "Mario and Luigi: Superstar Saga",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20and%20Luigi_%20Superstar%20Saga/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20and%20Luigi_%20Superstar%20Saga/index.html"
+  },
+  {
+    "id": 1400,
+    "name": "Mario Kart: Super Circuit",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Kart_%20Super%20Circuit/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Kart_%20Super%20Circuit/index.html"
+  },
+  {
+    "id": 1401,
+    "name": "Pokemon Green",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pokemon%20Green/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pokemon%20Green/index.html"
+  },
+  {
+    "id": 1402,
+    "name": "Pokemon Sapphire",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pokemon%20Sapphire/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pokemon%20Sapphire/index.html"
+  },
+  {
+    "id": 1403,
+    "name": "Microsoft surf",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Microsoft%20surf/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Microsoft%20surf/index.html"
+  },
+  {
+    "id": 1404,
+    "name": "Neon Rider",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Neon%20Rider/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Neon%20Rider/index.html"
+  },
+  {
+    "id": 1405,
+    "name": "Offline Paradise",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Offline%20Paradise/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Offline%20Paradise/index.html"
+  },
+  {
+    "id": 1406,
+    "name": "One Screen Run",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/One%20Screen%20Run/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/One%20Screen%20Run/index.html"
+  },
+  {
+    "id": 1407,
+    "name": "One Screen Run 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/One%20Screen%20Run%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/One%20Screen%20Run%202/index.html"
+  },
+  {
+    "id": 1408,
+    "name": "Osu! Mania",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Osu%21%20Mania/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Osu%21%20Mania/index.html"
+  },
+  {
+    "id": 1409,
+    "name": "Papa's Pizzaria",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%27s%20Pizzaria/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papa%27s%20Pizzaria/index.html"
+  },
+  {
+    "id": 1410,
+    "name": "Pokemon: LeafGreen",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pokemon_%20LeafGreen/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pokemon_%20LeafGreen/index.html"
+  },
+  {
+    "id": 1411,
+    "name": "Popcat Classic",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Popcat%20Classic/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Popcat%20Classic/index.html"
+  },
+  {
+    "id": 1412,
+    "name": "Portal Flash",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Portal%20Flash/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Portal%20Flash/index.html"
+  },
+  {
+    "id": 1413,
+    "name": "Rise-Of Neon Square",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rise-Of%20Neon%20Square/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rise-Of%20Neon%20Square/index.html"
+  },
+  {
+    "id": 1414,
+    "name": "Ristar",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ristar/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ristar/index.html"
+  },
+  {
+    "id": 1415,
+    "name": "Rocket Soccer Derby",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rocket%20Soccer%20Derby/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Rocket%20Soccer%20Derby/index.html"
+  },
+  {
+    "id": 1416,
+    "name": "Run",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Run/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Run/index.html"
+  },
+  {
+    "id": 1417,
+    "name": "Sand Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sand%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sand%20Game/index.html"
+  },
+  {
+    "id": 1418,
+    "name": "Short life 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Short%20life%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Short%20life%202/index.html"
+  },
+  {
+    "id": 1419,
+    "name": "Short Ride",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Short%20Ride/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Short%20Ride/index.html"
+  },
+  {
+    "id": 1420,
+    "name": "Sky Block",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sky%20Block/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sky%20Block/index.html"
+  },
+  {
+    "id": 1421,
+    "name": "SM63",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SM63/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SM63/index.html"
+  },
+  {
+    "id": 1422,
+    "name": "Sonic Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Advance/index.html"
+  },
+  {
+    "id": 1423,
+    "name": "Sonic Advance 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Advance%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Advance%202/index.html"
+  },
+  {
+    "id": 1424,
+    "name": "Sonic Advance 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Advance%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Advance%203/index.html"
+  },
+  {
+    "id": 1425,
+    "name": "Sonic the Hedgehog",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20the%20Hedgehog/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20the%20Hedgehog/index.html"
+  },
+  {
+    "id": 1426,
+    "name": "Space Invaders",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Invaders/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Space%20Invaders/index.html"
+  },
+  {
+    "id": 1427,
+    "name": "Spongebob Fiery Tracks Of Fury",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Spongebob%20Fiery%20Tracks%20Of%20Fury/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Spongebob%20Fiery%20Tracks%20Of%20Fury/index.html"
+  },
+  {
+    "id": 1428,
+    "name": "SpongeBob Patty Panic",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Patty%20Panic/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Patty%20Panic/index.html"
+  },
+  {
+    "id": 1429,
+    "name": "Stack Bump 3d",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stack%20Bump%203d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stack%20Bump%203d/index.html"
+  },
+  {
+    "id": 1430,
+    "name": "Stealing The Diamond",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stealing%20The%20Diamond/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stealing%20The%20Diamond/index.html"
+  },
+  {
+    "id": 1431,
+    "name": "Stickman Dismount",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stickman%20Dismount/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stickman%20Dismount/index.html"
+  },
+  {
+    "id": 1432,
+    "name": "Stickman Survival",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stickman%20Survival/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stickman%20Survival/index.html"
+  },
+  {
+    "id": 1433,
+    "name": "Super Brawl 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Brawl%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Brawl%202/index.html"
+  },
+  {
+    "id": 1434,
+    "name": "Super Mario Advance",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance/index.html"
+  },
+  {
+    "id": 1435,
+    "name": "Super Mario Advance 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance%202/index.html"
+  },
+  {
+    "id": 1436,
+    "name": "Super Mario Advance 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance%203/index.html"
+  },
+  {
+    "id": 1437,
+    "name": "Super Mario Advance 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Advance%204/index.html"
+  },
+  {
+    "id": 1438,
+    "name": "Super Mario Flash",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Flash/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Flash/index.html"
+  },
+  {
+    "id": 1439,
+    "name": "Super Mario Flash 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Flash%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Flash%202/index.html"
+  },
+  {
+    "id": 1440,
+    "name": "Super Mario Maker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Maker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Maker/index.html"
+  },
+  {
+    "id": 1441,
+    "name": "Super Meat Boy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Meat%20Boy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Meat%20Boy/index.html"
+  },
+  {
+    "id": 1442,
+    "name": "Super Puffer Fish 3d",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Puffer%20Fish%203d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Puffer%20Fish%203d/index.html"
+  },
+  {
+    "id": 1443,
+    "name": "Tank Trouble 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tank%20Trouble%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tank%20Trouble%202/index.html"
+  },
+  {
+    "id": 1444,
+    "name": "The Backrooms",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Backrooms/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Backrooms/index.html"
+  },
+  {
+    "id": 1445,
+    "name": "The Final Earth",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Final%20Earth/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Final%20Earth/index.html"
+  },
+  {
+    "id": 1446,
+    "name": "The Final Earth 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Final%20Earth%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Final%20Earth%202/index.html"
+  },
+  {
+    "id": 1447,
+    "name": "The Impossible Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Impossible%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Impossible%20Game/index.html"
+  },
+  {
+    "id": 1448,
+    "name": "The Impossible Quiz 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Impossible%20Quiz%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Impossible%20Quiz%202/index.html"
+  },
+  {
+    "id": 1449,
+    "name": "The Simpsons: Road Rage",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Simpsons_%20Road%20Rage/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Simpsons_%20Road%20Rage/index.html"
+  },
+  {
+    "id": 1450,
+    "name": "There is no game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/There%20is%20no%20game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/There%20is%20no%20game/index.html"
+  },
+  {
+    "id": 1451,
+    "name": "Traffic Jam 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Traffic%20Jam%203D/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Traffic%20Jam%203D/index.html"
+  },
+  {
+    "id": 1452,
+    "name": "Twinshot",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Twinshot/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Twinshot/index.html"
+  },
+  {
+    "id": 1453,
+    "name": "Twinshot 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Twinshot%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Twinshot%202/index.html"
+  },
+  {
+    "id": 1454,
+    "name": "Ultimate Flash Sonic",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ultimate%20Flash%20Sonic/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ultimate%20Flash%20Sonic/index.html"
+  },
+  {
+    "id": 1455,
+    "name": "Unfair Mario",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Unfair%20Mario/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Unfair%20Mario/index.html"
+  },
+  {
+    "id": 1456,
+    "name": "Vex",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Vex/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Vex/index.html"
+  },
+  {
+    "id": 1457,
+    "name": "Wolf 3d",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wolf%203d/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wolf%203d/index.html"
+  },
+  {
+    "id": 1458,
+    "name": "Worlds Hardest Game",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Worlds%20Hardest%20Game/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Worlds%20Hardest%20Game/index.html"
+  },
+  {
+    "id": 1459,
+    "name": "Worlds Hardest Game 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Worlds%20Hardest%20Game%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Worlds%20Hardest%20Game%202/index.html"
+  },
+  {
+    "id": 1460,
+    "name": "xx142-b2exe",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/xx142-b2exe/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/xx142-b2exe/index.html"
+  },
+  {
+    "id": 1461,
+    "name": "Zombocalypse",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Zombocalypse/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Zombocalypse/index.html"
+  },
+  {
+    "id": 1462,
+    "name": "Zombotron",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Zombotron/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Zombotron/index.html"
+  },
+  {
+    "id": 1463,
+    "name": "Zombotron 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Zombotron%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Zombotron%202/index.html"
+  },
+  {
+    "id": 1464,
+    "name": "FNF: Heartbreak Havoc: Vs. Sky Redux",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Heartbreak%20Havoc_%20Vs.%20Sky%20Redux/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Heartbreak%20Havoc_%20Vs.%20Sky%20Redux/index.html"
+  },
+  {
+    "id": 1465,
+    "name": "Oneshot",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Oneshot/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Oneshot/index.html"
+  },
+  {
+    "id": 1466,
+    "name": "Pico's School",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pico%27s%20School/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pico%27s%20School/index.html"
+  },
+  {
+    "id": 1467,
+    "name": "Madness Combat: Project Nexus",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Madness%20Combat_%20Project%20Nexus/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Madness%20Combat_%20Project%20Nexus/index.html"
+  },
+  {
+    "id": 1468,
+    "name": "Plants vs. Zombies 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Plants%20vs.%20Zombies%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Plants%20vs.%20Zombies%202/index.html"
+  },
+  {
+    "id": 1469,
+    "name": "BFDI Branches",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/BFDI%20Branches/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/BFDI%20Branches/index.html"
+  },
+  {
+    "id": 1470,
+    "name": "Phoenix Wright: Justice for All",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Phoenix%20Wright_%20Justice%20for%20All/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Phoenix%20Wright_%20Justice%20for%20All/index.html"
+  },
+  {
+    "id": 1471,
+    "name": "Phoenix Wright: Trials and Tribulations",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Phoenix%20Wright_%20Trials%20and%20Tribulations/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Phoenix%20Wright_%20Trials%20and%20Tribulations/index.html"
+  },
+  {
+    "id": 1472,
+    "name": "Mario &amp; Luigi: Partners in Time",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20%26amp%3B%20Luigi_%20Partners%20in%20Time/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20%26amp%3B%20Luigi_%20Partners%20in%20Time/index.html"
+  },
+  {
+    "id": 1473,
+    "name": "Mario &amp; Luigi: Bowser's Inside Story",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20%26amp%3B%20Luigi_%20Bowser%27s%20Inside%20Story/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20%26amp%3B%20Luigi_%20Bowser%27s%20Inside%20Story/index.html"
+  },
+  {
+    "id": 1474,
+    "name": "Super Mario Bros 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Bros%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Bros%202/index.html"
+  },
+  {
+    "id": 1475,
+    "name": "Super Mario Bros 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Bros%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20Bros%203/index.html"
+  },
+  {
+    "id": 1476,
+    "name": "Scooby-Doo! Mystery Mayhem",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Scooby-Doo%21%20Mystery%20Mayhem/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Scooby-Doo%21%20Mystery%20Mayhem/index.html"
+  },
+  {
+    "id": 1477,
+    "name": "The SpongeBob Squarepants Movie",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20SpongeBob%20Squarepants%20Movie/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20SpongeBob%20Squarepants%20Movie/index.html"
+  },
+  {
+    "id": 1478,
+    "name": "Subway Surfers Berlin",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20Berlin/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20Berlin/index.html"
+  },
+  {
+    "id": 1479,
+    "name": "Subway Surfers London",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20London/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20London/index.html"
+  },
+  {
+    "id": 1480,
+    "name": "Subway Surfers Mexico",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20Mexico/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20Mexico/index.html"
+  },
+  {
+    "id": 1481,
+    "name": "Subway Surfers Beijing",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20Beijing/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Subway%20Surfers%20Beijing/index.html"
+  },
+  {
+    "id": 1482,
+    "name": "Super Mario All-Stars",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20All-Stars/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20All-Stars/index.html"
+  },
+  {
+    "id": 1483,
+    "name": "Super Mario RPG",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20RPG/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20RPG/index.html"
+  },
+  {
+    "id": 1484,
+    "name": "Sonic Mega Mix",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Mega%20Mix/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Mega%20Mix/index.html"
+  },
+  {
+    "id": 1485,
+    "name": "Sonic Classic Heroes",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Classic%20Heroes/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Classic%20Heroes/index.html"
+  },
+  {
+    "id": 1486,
+    "name": "Sonic Spinball",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Spinball/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Spinball/index.html"
+  },
+  {
+    "id": 1487,
+    "name": "Super Punch-Out!!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Punch-Out%21%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Punch-Out%21%21/index.html"
+  },
+  {
+    "id": 1488,
+    "name": "Big City Battle",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Big%20City%20Battle/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Big%20City%20Battle/index.html"
+  },
+  {
+    "id": 1489,
+    "name": "Puyo Pop Fever",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Puyo%20Pop%20Fever/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Puyo%20Pop%20Fever/index.html"
+  },
+  {
+    "id": 1490,
+    "name": "Goat Guardian",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Goat%20Guardian/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Goat%20Guardian/index.html"
+  },
+  {
+    "id": 1491,
+    "name": "Sprunki Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sprunki%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sprunki%20Clicker/index.html"
+  },
+  {
+    "id": 1492,
+    "name": "You vs 100 Skibidi Toilets",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/You%20vs%20100%20Skibidi%20Toilets/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/You%20vs%20100%20Skibidi%20Toilets/index.html"
+  },
+  {
+    "id": 1493,
+    "name": "Whack the Creeps",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20the%20Creeps/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20the%20Creeps/index.html"
+  },
+  {
+    "id": 1494,
+    "name": "Whack Your Boss",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20Your%20Boss/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20Your%20Boss/index.html"
+  },
+  {
+    "id": 1495,
+    "name": "Whack Your Computer",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20Your%20Computer/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20Your%20Computer/index.html"
+  },
+  {
+    "id": 1496,
+    "name": "Whack Your Ex",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20Your%20Ex/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Whack%20Your%20Ex/index.html"
+  },
+  {
+    "id": 1497,
+    "name": "Housebroken Hero",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Housebroken%20Hero/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Housebroken%20Hero/index.html"
+  },
+  {
+    "id": 1498,
+    "name": "Animal Crossing: Wild World",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Animal%20Crossing_%20Wild%20World/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Animal%20Crossing_%20Wild%20World/index.html"
+  },
+  {
+    "id": 1499,
+    "name": "Ant Buster",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ant%20Buster/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ant%20Buster/index.html"
+  },
+  {
+    "id": 1500,
+    "name": "The Amazing World of Gumball: Blindfooled",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Blindfooled/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/The%20Amazing%20World%20of%20Gumball_%20Blindfooled/index.html"
+  },
+  {
+    "id": 1501,
+    "name": "SpongeBob Squarepants: Boo or Boom",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Boo%20or%20Boom/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Boo%20or%20Boom/index.html"
+  },
+  {
+    "id": 1502,
+    "name": "Capybara Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Capybara%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Capybara%20Clicker/index.html"
+  },
+  {
+    "id": 1503,
+    "name": "SpongeBob Squarepants: Delivery Dilemma",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Delivery%20Dilemma/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Delivery%20Dilemma/index.html"
+  },
+  {
+    "id": 1504,
+    "name": "Donkey Kong Country",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Donkey%20Kong%20Country/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Donkey%20Kong%20Country/index.html"
+  },
+  {
+    "id": 1505,
+    "name": "Grand Action Simulator: New York",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Grand%20Action%20Simulator_%20New%20York/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Grand%20Action%20Simulator_%20New%20York/index.html"
+  },
+  {
+    "id": 1506,
+    "name": "GTA: Vice City",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/GTA_%20Vice%20City/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/GTA_%20Vice%20City/index.html"
+  },
+  {
+    "id": 1507,
+    "name": "Nickelodeon: Hardest Game Ever",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nickelodeon_%20Hardest%20Game%20Ever/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nickelodeon_%20Hardest%20Game%20Ever/index.html"
+  },
+  {
+    "id": 1508,
+    "name": "Mario Kart DS",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Kart%20DS/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Kart%20DS/index.html"
+  },
+  {
+    "id": 1509,
+    "name": "Mario Party DS",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Party%20DS/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Mario%20Party%20DS/index.html"
+  },
+  {
+    "id": 1510,
+    "name": "Nintendogs: Labrador &amp; Friends",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nintendogs_%20Labrador%20%26amp%3B%20Friends/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nintendogs_%20Labrador%20%26amp%3B%20Friends/index.html"
+  },
+  {
+    "id": 1511,
+    "name": "SpongeBob Squarepants: Pyramid Peril",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Pyramid%20Peril/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Pyramid%20Peril/index.html"
+  },
+  {
+    "id": 1512,
+    "name": "SpongeBob Squarepants: Sea Monster Smoosh",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Sea%20Monster%20Smoosh/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20Squarepants_%20Sea%20Monster%20Smoosh/index.html"
+  },
+  {
+    "id": 1513,
+    "name": "Sonic Colors",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Colors/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Colors/index.html"
+  },
+  {
+    "id": 1514,
+    "name": "Sonic Rush",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Rush/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Rush/index.html"
+  },
+  {
+    "id": 1515,
+    "name": "Super Mario World",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20World/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20World/index.html"
+  },
+  {
+    "id": 1516,
+    "name": "Super Mario World 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20World%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Mario%20World%202/index.html"
+  },
+  {
+    "id": 1517,
+    "name": "Super Princess Peach",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Princess%20Peach/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Princess%20Peach/index.html"
+  },
+  {
+    "id": 1518,
+    "name": "FNF: Sonic Dash And Spin",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sonic%20Dash%20And%20Spin/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sonic%20Dash%20And%20Spin/index.html"
+  },
+  {
+    "id": 1519,
+    "name": "FNF: Vs. Jeffy",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Jeffy/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Jeffy/index.html"
+  },
+  {
+    "id": 1520,
+    "name": "Sonic Revert",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Revert/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Revert/index.html"
+  },
+  {
+    "id": 1521,
+    "name": "Drive Mad",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Drive%20Mad/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Drive%20Mad/index.html"
+  },
+  {
+    "id": 1522,
+    "name": "Papers.io Mania",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papers.io%20Mania/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Papers.io%20Mania/index.html"
+  },
+  {
+    "id": 1523,
+    "name": "FNAF",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF/index.html"
+  },
+  {
+    "id": 1524,
+    "name": "FNAF 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF%202/index.html"
+  },
+  {
+    "id": 1525,
+    "name": "FNAF 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF%203/index.html"
+  },
+  {
+    "id": 1526,
+    "name": "FNAF 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNAF%204/index.html"
+  },
+  {
+    "id": 1527,
+    "name": "Omega Nugget Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Omega%20Nugget%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Omega%20Nugget%20Clicker/index.html"
+  },
+  {
+    "id": 1528,
+    "name": "Room Clicker",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Room%20Clicker/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Room%20Clicker/index.html"
+  },
+  {
+    "id": 1529,
+    "name": "Minecraft Pocket Edition 0.6.1",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Minecraft%20Pocket%20Edition%200.6.1/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Minecraft%20Pocket%20Edition%200.6.1/index.html"
+  },
+  {
+    "id": 1530,
+    "name": "FNF: CITYFUNK",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CITYFUNK/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20CITYFUNK/index.html"
+  },
+  {
+    "id": 1531,
+    "name": "FNF: Jeffy's Infinite Irida (SHUCKS DEMO)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Jeffy%27s%20Infinite%20Irida%20%28SHUCKS%20DEMO%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Jeffy%27s%20Infinite%20Irida%20%28SHUCKS%20DEMO%29/index.html"
+  },
+  {
+    "id": 1532,
+    "name": "FNF: Vs. Rewrite: Round 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Rewrite_%20Round%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Rewrite_%20Round%202/index.html"
+  },
+  {
+    "id": 1533,
+    "name": "FNF: Vs. Impostor (2025): UPDOG",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Impostor%20%282025%29_%20UPDOG/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs.%20Impostor%20%282025%29_%20UPDOG/index.html"
+  },
+  {
+    "id": 1534,
+    "name": "FNF: Vs Mouse: Rookies Edition (Disk 1)",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs%20Mouse_%20Rookies%20Edition%20%28Disk%201%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs%20Mouse_%20Rookies%20Edition%20%28Disk%201%29/index.html"
+  },
+  {
+    "id": 1535,
+    "name": "FNF: Anemaniac \u2013 Bendy vs Ollie",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Anemaniac%20%E2%80%93%20Bendy%20vs%20Ollie/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Anemaniac%20%E2%80%93%20Bendy%20vs%20Ollie/index.html"
+  },
+  {
+    "id": 1536,
+    "name": "FNF: Sky: REBORN",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sky_%20REBORN/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Sky_%20REBORN/index.html"
+  },
+  {
+    "id": 1537,
+    "name": "FNF: Funkin\u2019 on the Heights!",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%E2%80%99%20on%20the%20Heights%21/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%E2%80%99%20on%20the%20Heights%21/index.html"
+  },
+  {
+    "id": 1538,
+    "name": "FNF: DOCAD: 2-shot Demo",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20DOCAD_%202-shot%20Demo/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20DOCAD_%202-shot%20Demo/index.html"
+  },
+  {
+    "id": 1539,
+    "name": "FNF: Annoying Orange: The Amazing Grace V2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Annoying%20Orange_%20The%20Amazing%20Grace%20V2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Annoying%20Orange_%20The%20Amazing%20Grace%20V2/index.html"
+  },
+  {
+    "id": 1540,
+    "name": "awesome calculator",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/awesome%20calculator/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/awesome%20calculator/index.html"
+  },
+  {
+    "id": 1541,
+    "name": "Balatro",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Balatro/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Balatro/index.html"
+  },
+  {
+    "id": 1542,
+    "name": "A Random Bee Swarm Simulator Knockoff",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/A%20Random%20Bee%20Swarm%20Simulator%20Knockoff/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/A%20Random%20Bee%20Swarm%20Simulator%20Knockoff/index.html"
+  },
+  {
+    "id": 1543,
+    "name": "Big Flappy Tower Tiny Square",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Big%20Flappy%20Tower%20Tiny%20Square/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Big%20Flappy%20Tower%20Tiny%20Square/index.html"
+  },
+  {
+    "id": 1544,
+    "name": "Bloons 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%202/index.html"
+  },
+  {
+    "id": 1545,
+    "name": "Bloons Tower Defense 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%203/index.html"
+  },
+  {
+    "id": 1546,
+    "name": "Bloons Tower Defense 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%204/index.html"
+  },
+  {
+    "id": 1547,
+    "name": "Bloons Tower Defense 5",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%205/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Tower%20Defense%205/index.html"
+  },
+  {
+    "id": 1548,
+    "name": "Bloons Player Pack 1",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%201/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%201/index.html"
+  },
+  {
+    "id": 1549,
+    "name": "Bloons Player Pack 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%202/index.html"
+  },
+  {
+    "id": 1550,
+    "name": "Bloons Player Pack 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%203/index.html"
+  },
+  {
+    "id": 1551,
+    "name": "Bloons Player Pack 4",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%204/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%204/index.html"
+  },
+  {
+    "id": 1552,
+    "name": "Bloons Player Pack 5",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%205/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Player%20Pack%205/index.html"
+  },
+  {
+    "id": 1553,
+    "name": "Drift Cup Racing",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Drift%20Cup%20Racing/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Drift%20Cup%20Racing/index.html"
+  },
+  {
+    "id": 1554,
+    "name": "Jacksmith",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jacksmith/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jacksmith/index.html"
+  },
+  {
+    "id": 1555,
+    "name": "Jungle Bubble",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jungle%20Bubble/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Jungle%20Bubble/index.html"
+  },
+  {
+    "id": 1556,
+    "name": "Memo Matcher",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Memo%20Matcher/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Memo%20Matcher/index.html"
+  },
+  {
+    "id": 1557,
+    "name": "Potatoman Seeks the Troof",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Potatoman%20Seeks%20the%20Troof/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Potatoman%20Seeks%20the%20Troof/index.html"
+  },
+  {
+    "id": 1558,
+    "name": "Among Rampage",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Among%20Rampage/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Among%20Rampage/index.html"
+  },
+  {
+    "id": 1559,
+    "name": "Doom II",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doom%20II/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doom%20II/index.html"
+  },
+  {
+    "id": 1560,
+    "name": "Doom III",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doom%20III/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Doom%20III/index.html"
+  },
+  {
+    "id": 1561,
+    "name": "Gacha Life",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gacha%20Life/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gacha%20Life/index.html"
+  },
+  {
+    "id": 1562,
+    "name": "Gachaverse",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gachaverse/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gachaverse/index.html"
+  },
+  {
+    "id": 1563,
+    "name": "FNF: Vs Forsaken: DEMO",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs%20Forsaken_%20DEMO/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Vs%20Forsaken_%20DEMO/index.html"
+  },
+  {
+    "id": 1564,
+    "name": "FNF: Throwback",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Throwback/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Throwback/index.html"
+  },
+  {
+    "id": 1565,
+    "name": "Ace Attorney Investigations",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ace%20Attorney%20Investigations/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Ace%20Attorney%20Investigations/index.html"
+  },
+  {
+    "id": 1566,
+    "name": "Bloons Insanity Pack",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Insanity%20Pack/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20Insanity%20Pack/index.html"
+  },
+  {
+    "id": 1567,
+    "name": "Dad n' Me",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dad%20n%27%20Me/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Dad%20n%27%20Me/index.html"
+  },
+  {
+    "id": 1568,
+    "name": "Gravity Duck",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gravity%20Duck/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gravity%20Duck/index.html"
+  },
+  {
+    "id": 1569,
+    "name": "Gravity Duck 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gravity%20Duck%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Gravity%20Duck%202/index.html"
+  },
+  {
+    "id": 1570,
+    "name": "Halloween Jam",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Halloween%20Jam/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Halloween%20Jam/index.html"
+  },
+  {
+    "id": 1571,
+    "name": "NG's Finest",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/NG%27s%20Finest/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/NG%27s%20Finest/index.html"
+  },
+  {
+    "id": 1572,
+    "name": "Nyan Cat Lost in Space",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nyan%20Cat%20Lost%20in%20Space/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Nyan%20Cat%20Lost%20in%20Space/index.html"
+  },
+  {
+    "id": 1573,
+    "name": "Patapon Beat Camp",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Patapon%20Beat%20Camp/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Patapon%20Beat%20Camp/index.html"
+  },
+  {
+    "id": 1574,
+    "name": "Pet Zombie",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pet%20Zombie/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pet%20Zombie/index.html"
+  },
+  {
+    "id": 1575,
+    "name": "Pico's School: Love Conquers All",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pico%27s%20School_%20Love%20Conquers%20All/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pico%27s%20School_%20Love%20Conquers%20All/index.html"
+  },
+  {
+    "id": 1576,
+    "name": "Pocket Emo",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pocket%20Emo/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Pocket%20Emo/index.html"
+  },
+  {
+    "id": 1577,
+    "name": "Stick Figure Badminton",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stick%20Figure%20Badminton/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stick%20Figure%20Badminton/index.html"
+  },
+  {
+    "id": 1578,
+    "name": "Stick Figure Badminton 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stick%20Figure%20Badminton%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stick%20Figure%20Badminton%202/index.html"
+  },
+  {
+    "id": 1579,
+    "name": "Stick Figure Badminton 3",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stick%20Figure%20Badminton%203/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Stick%20Figure%20Badminton%203/index.html"
+  },
+  {
+    "id": 1580,
+    "name": "Strike Force Kitty",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Strike%20Force%20Kitty/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Strike%20Force%20Kitty/index.html"
+  },
+  {
+    "id": 1581,
+    "name": "Strike Force Kitty 2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Strike%20Force%20Kitty%202/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Strike%20Force%20Kitty%202/index.html"
+  },
+  {
+    "id": 1582,
+    "name": "Strike Force Kitty Last Stand",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Strike%20Force%20Kitty%20Last%20Stand/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Strike%20Force%20Kitty%20Last%20Stand/index.html"
+  },
+  {
+    "id": 1583,
+    "name": "Super Monkey Ball 1/2",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Monkey%20Ball%201_2/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Super%20Monkey%20Ball%201_2/index.html"
+  },
+  {
+    "id": 1584,
+    "name": "SpongeBob SquarePants: Trail of the Snail",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Trail%20of%20the%20Snail/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/SpongeBob%20SquarePants_%20Trail%20of%20the%20Snail/index.html"
+  },
+  {
+    "id": 1585,
+    "name": "Geometry Dash: Subzero",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash_%20Subzero/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Geometry%20Dash_%20Subzero/index.html"
+  },
+  {
+    "id": 1586,
+    "name": "Huggy Wuggy Pixel Nights",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Huggy%20Wuggy%20Pixel%20Nights/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Huggy%20Wuggy%20Pixel%20Nights/index.html"
+  },
+  {
+    "id": 1587,
+    "name": "Wolfenstein 3D",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wolfenstein%203D/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Wolfenstein%203D/index.html"
+  },
+  {
+    "id": 1588,
+    "name": "A Random Clicker By Jalen",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/A%20Random%20Clicker%20By%20Jalen/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/A%20Random%20Clicker%20By%20Jalen/index.html"
+  },
+  {
+    "id": 1589,
+    "name": "Sonic Mania Plus",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Mania%20Plus/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Sonic%20Mania%20Plus/index.html"
+  },
+  {
+    "id": 1590,
+    "name": "FNF: Remnants",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Remnants/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Remnants/index.html"
+  },
+  {
+    "id": 1591,
+    "name": "Epsteins Education And Learning",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epsteins%20Education%20And%20Learning/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Epsteins%20Education%20And%20Learning/index.html"
+  },
+  {
+    "id": 1592,
+    "name": "CaseOhs Education And Learning",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/CaseOhs%20Education%20And%20Learning/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/CaseOhs%20Education%20And%20Learning/index.html"
+  },
+  {
+    "id": 1593,
+    "name": "FNF: Hazier River",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hazier%20River/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hazier%20River/index.html"
   }
 ]

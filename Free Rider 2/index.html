@@ -1,0 +1,15 @@
+<!DOCTYPE html><html><head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/livediesmos/free-rider-2/">
+<script src="https://files.crazygames.com/gameframe/ruffle/2025-03-18/ruffle.js"></script><body style="margin: 0px"><div id="container" style="width: 100vw; height: 100vh"></div><script type="text/javascript">function play() {
+    const ruffle = window.RufflePlayer.newest();
+    const player = ruffle.createPlayer();
+    player.config = {"splashScreen":false,"contextMenu":"off","autoplay":true,"warnOnUnsupportedContent":false,"allowScriptAccess":true,"maxExecutionDuration":30}
+    const container = document.getElementById('container');
+    container.appendChild(player);
+    player.style.cssText = 'width:100%; height: 100%;';
+    player.style.display = 'block';
+    player.load("https://files.crazygames.com/freerider2.swf").then(() => {
+      window.parent.postMessage({ type: 'ruffleready' }, '*');
+    });
+}
+play();</script></body></head></html>

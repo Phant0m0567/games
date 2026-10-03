@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Spelunky HTML5</title>
+
+  <link rel="stylesheet" href="./css/style.css" />
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+        $('iframe#game').focus();
+        });
+  </script>
+  <link rel="shortcut icon" href="./favicon.ico" />
+</head>
+<body>
+  <div id="container">
+    <div id="logo"></div>
+
+    <iframe id="game" src="./game.html" scrolling="no" seamless="seamless" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+    <div id="info">
+      <h2>Controls</h2>
+      <p>Arrow keys to move, ZXC to do stuff.</p>
+
+      <h2>About</h2>
+      <p>Ported from GameMaker 8.1 to HTML5 with <a href="http://www.yoyogames.com/gamemaker/studio" target="_blank">GameMaker: Studio</a>. <a href="http://www.spelunkyworld.com" target="_blank">Original game</a> by Derek Yu, ported by <a href="http://www.tinysubversions.com" target="_blank">Darius Kazemi</a> (me). Special thanks to the team at <a href="http://yoyogames.com/">YoYo Games</a> for helping with bugfixes and polish when I was too busy to do so!</p>
+      <p><a href="http://tinysubversions.com/2012/07/spelunky-html5/" target="_blank">See this article</a> for some technical details on the port.</p>
+  </div>
+  <div class="break"></div>
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script>
+  <script type="text/javascript">
+  try {
+    var pageTracker = _gat._getTracker("UA-339043-1");
+    pageTracker._trackPageview();
+  } catch(err) {}
+  </script>
+</body>
+</html>

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<base href="https://testingcf.jsdelivr.net/gh/aDiesmos/assets/snowstoppers/">
+
+  <!-- TODO(Ale): What should we do with this meta data stuff??? -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="viewport" content="width=800, height=600, user-scalable=no">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="-1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+  <style type="text/css">
+    body {
+      background-color: #000000;
+      margin: 0;
+      padding: 0;
+
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -o-user-select: none;
+      user-select: none;
+    }
+
+    #rp-div {
+      padding-top: 10px;
+      display: none;
+    }
+
+    #rp-img {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
+      display: block;
+      width: 30%;
+      height: 30%;
+    }
+  </style>
+
+  <title>Winter TD</title>
+
+  <script>var BUILD_DATE = "2018_07_04";</script>
+  <script src="js/createjs.min-1.0.0.js"></script>
+  <script src="js/main.js"></script>
+
+  <script>
+    window.addEventListener('resize', () => {
+      updateRotationIcon();
+    });
+
+    function updateRotationIcon() {
+      var MAX_PERC = 40;
+
+      var game_dom = document.getElementById('game_canvas');
+      var rp_div = document.getElementById("rp-div");
+      var rp_img = document.getElementById("rp-img");
+
+      var wnd = {
+        w: window.innerWidth,
+        h: window.innerHeight
+      };
+
+      // orientation
+      var isPortrait = wnd.h > wnd.w;
+
+      //if (!this.isDesktop) {
+      if (isPortrait) {
+        showRotateIcon();
+
+        var perc = 1;
+        if (rp_img.style.width.indexOf('%') > 0) {
+          perc = Number(rp_img.style.width.split('%')[0]) / 100;
+        }
+
+        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+          rp_img.style.marginLeft = 0;
+          rp_img.style.paddingLeft = Math.trunc(1 * (wnd.w - rp_img.clientWidth * perc) / 2) + 'px';
+        }
+        else {
+          // desktop
+          rp_img.style.paddingLeft = null;
+          rp_img.style.marginLeft = 'auto';
+        }
+        //rp_img.style.paddingLeft = Math.trunc(1.1 * (wnd.w - rp_img.clientWidth * perc) / 2) + 'px';
+
+        var pad_top = Math.trunc((wnd.h - rp_img.clientHeight * perc) / 2);
+        //console.log('pad_top = ' + pad_top);
+        rp_div.style.paddingTop = pad_top + 'px';
+
+      }
+      else {
+        hideRotateIcon();
+      }
+
+    }
+
+    function showRotateIcon() {
+      document.getElementById("game").style.display = "none";
+      document.getElementById("rp-div").style.display = "block";
+      //document.getElementById("rp-img").style.display = "block";
+      //ScaleManager.game.world.isPaused = true;
+    }
+
+    function hideRotateIcon() {
+      document.getElementById("rp-div").style.display = "none";
+      document.getElementById("game").style.display = "block";
+      //document.getElementById("rp-img").style.display = "none";
+      //ScaleManager.game.world.isPaused = false;
+    }
+
+  </script>
+
+
+</head>
+
+<body onload="updateRotationIcon(); main.startLoading();">
+  <div id="game">
+    <canvas id="game_canvas" width="800px" , height="600px" , position="fixed" , top="0" , margin-left="auto" , margin-right="auto">
+      Failed to load game...
+    </canvas>
+  </div>
+
+  <div id="rp-div">
+    <img id="rp-img" src="images/rotate-device.png" />
+  </div>
+
+</body>
+
+</html>
