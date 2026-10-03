@@ -408,36 +408,6 @@
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/BitLife/index.html"
   },
   {
-    "id": 71,
-    "name": "Bloons TD",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD/index.html"
-  },
-  {
-    "id": 72,
-    "name": "Bloons TD 2",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%202/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%202/index.html"
-  },
-  {
-    "id": 73,
-    "name": "Bloons TD 3",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%203/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%203/index.html"
-  },
-  {
-    "id": 74,
-    "name": "Bloons TD 4",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%204/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%204/index.html"
-  },
-  {
-    "id": 75,
-    "name": "Bloons TD 5",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%205/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bloons%20TD%205/index.html"
-  },
-  {
     "id": 76,
     "name": "Bob The Robber 2",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bob%20The%20Robber%202/index.png",
@@ -958,12 +928,6 @@
     "name": "Swords and Souls",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Swords%20and%20Souls/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Swords%20and%20Souls/index.html"
-  },
-  {
-    "id": 179,
-    "name": "Soundboard",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Soundboard/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Soundboard/index.html"
   },
   {
     "id": 180,
@@ -1500,12 +1464,6 @@
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Bad%20Ice%20Cream%203/index.html"
   },
   {
-    "id": 272,
-    "name": "Basketball Stars",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basketball%20Stars/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basketball%20Stars/index.html"
-  },
-  {
     "id": 273,
     "name": "BlockPost",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/BlockPost/index.png",
@@ -1576,12 +1534,6 @@
     "name": "War The Knights",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/War%20The%20Knights/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/War%20The%20Knights/index.html"
-  },
-  {
-    "id": 285,
-    "name": "Basket Bros",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basket%20Bros/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Basket%20Bros/index.html"
   },
   {
     "id": 286,
@@ -1978,12 +1930,6 @@
     "name": "Blumgi Rocket",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Blumgi%20Rocket/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Blumgi%20Rocket/index.html"
-  },
-  {
-    "id": 354,
-    "name": "Adventure Capatalist",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Adventure%20Capatalist/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Adventure%20Capatalist/index.html"
   },
   {
     "id": 355,
@@ -2893,7 +2839,7 @@
   },
   {
     "id": 509,
-    "name": "Friday Night Funkin\u2019 Soft",
+    "name": "Friday Night Funkin’ Soft",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Soft/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Soft/index.html"
   },
@@ -3408,12 +3354,6 @@
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Shapez.io/index.html"
   },
   {
-    "id": 596,
-    "name": "[!] COMMENTS",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/%5B%21%5D%20COMMENTS/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/%5B%21%5D%20COMMENTS/index.html"
-  },
-  {
     "id": 597,
     "name": "Plants vs. Zombies 2 Gardenless",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Plants%20vs.%20Zombies%202%20Gardenless/index.png",
@@ -3529,7 +3469,7 @@
   },
   {
     "id": 616,
-    "name": "Friday Night Funkin\u2019 Wednesday's Infidelity",
+    "name": "Friday Night Funkin’ Wednesday's Infidelity",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Wednesday%27s%20Infidelity/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Friday%20Night%20Funkin%E2%80%99%20Wednesday%27s%20Infidelity/index.html"
   },
@@ -3541,7 +3481,7 @@
   },
   {
     "id": 618,
-    "name": "FNF vs Bob v2.0 (Bob\u2019s Onslaught)",
+    "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF%20vs%20Bob%20v2.0%20%28Bob%E2%80%99s%20Onslaught%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF%20vs%20Bob%20v2.0%20%28Bob%E2%80%99s%20Onslaught%29/index.html"
   },
@@ -4249,7 +4189,7 @@
   },
   {
     "id": 737,
-    "name": "Saihate Station (\u3055\u3044\u306f\u3066\u99c5)",
+    "name": "Saihate Station (さいはて駅)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Saihate%20Station%20%28%E3%81%95%E3%81%84%E3%81%AF%E3%81%A6%E9%A7%85%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Saihate%20Station%20%28%E3%81%95%E3%81%84%E3%81%AF%E3%81%A6%E9%A7%85%29/index.html"
   },
@@ -4722,20 +4662,8 @@
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Baldi%27s%20Basics%20The%20Ultra%20Decompile/index.html"
   },
   {
-    "id": 816,
-    "name": "-3",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/-3/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/-3/index.html"
-  },
-  {
-    "id": 817,
-    "name": "-b",
-    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/-b/index.png",
-    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/-b/index.html"
-  },
-  {
     "id": 818,
-    "name": "t\u00b3 (T cubed)",
+    "name": "t³ (T cubed)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/t%C2%B3%20%28T%20cubed%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/t%C2%B3%20%28T%20cubed%29/index.html"
   },
@@ -5389,7 +5317,7 @@
   },
   {
     "id": 927,
-    "name": "let's hide the body!\u2661 (tee-hee~)",
+    "name": "let's hide the body!♡ (tee-hee~)",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/let%27s%20hide%20the%20body%21%E2%99%A1%20%28tee-hee~%29/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/let%27s%20hide%20the%20body%21%E2%99%A1%20%28tee-hee~%29/index.html"
   },
@@ -6307,7 +6235,7 @@
   },
   {
     "id": 1080,
-    "name": "FNF: Friday Night Funkin' Spooky Mix\ufe0f",
+    "name": "FNF: Friday Night Funkin' Spooky Mix️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Spooky%20Mix%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Friday%20Night%20Funkin%27%20Spooky%20Mix%EF%B8%8F/index.html"
   },
@@ -6709,7 +6637,7 @@
   },
   {
     "id": 1147,
-    "name": "FNF: VS. Mami \ufe0f",
+    "name": "FNF: VS. Mami ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Mami%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Mami%20%EF%B8%8F/index.html"
   },
@@ -6733,7 +6661,7 @@
   },
   {
     "id": 1151,
-    "name": "FNF: VS. Retrospecter\ufe0f",
+    "name": "FNF: VS. Retrospecter️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Retrospecter%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Retrospecter%EF%B8%8F/index.html"
   },
@@ -6853,7 +6781,7 @@
   },
   {
     "id": 1171,
-    "name": "FNF: VS. FNAF 3 \ufe0f",
+    "name": "FNF: VS. FNAF 3 ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20FNAF%203%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20FNAF%203%20%EF%B8%8F/index.html"
   },
@@ -6877,7 +6805,7 @@
   },
   {
     "id": 1175,
-    "name": "FNF: VS. Sonic.exe \ufe0f",
+    "name": "FNF: VS. Sonic.exe ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sonic.exe%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Sonic.exe%20%EF%B8%8F/index.html"
   },
@@ -6889,7 +6817,7 @@
   },
   {
     "id": 1177,
-    "name": "FNF: VS. Ron  \ufe0f",
+    "name": "FNF: VS. Ron  ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Ron%20%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20VS.%20Ron%20%20%EF%B8%8F/index.html"
   },
@@ -7021,7 +6949,7 @@
   },
   {
     "id": 1199,
-    "name": "FNF: Konton Boogie \ufe0f",
+    "name": "FNF: Konton Boogie ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Konton%20Boogie%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Konton%20Boogie%20%EF%B8%8F/index.html"
   },
@@ -7033,7 +6961,7 @@
   },
   {
     "id": 1201,
-    "name": "FNF: Dave and Bambi Golden Apple \ufe0f",
+    "name": "FNF: Dave and Bambi Golden Apple ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Dave%20and%20Bambi%20Golden%20Apple%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Dave%20and%20Bambi%20Golden%20Apple%20%EF%B8%8F/index.html"
   },
@@ -7081,13 +7009,13 @@
   },
   {
     "id": 1209,
-    "name": "FNF: Mario's Madness V2 \ufe0f",
+    "name": "FNF: Mario's Madness V2 ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mario%27s%20Madness%20V2%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Mario%27s%20Madness%20V2%20%EF%B8%8F/index.html"
   },
   {
     "id": 1210,
-    "name": "FNF: Voiid Chronicles \ufe0f",
+    "name": "FNF: Voiid Chronicles ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Voiid%20Chronicles%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Voiid%20Chronicles%20%EF%B8%8F/index.html"
   },
@@ -7117,7 +7045,7 @@
   },
   {
     "id": 1215,
-    "name": "FNF: The Full-Ass Tricky Mod \ufe0f",
+    "name": "FNF: The Full-Ass Tricky Mod ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Full-Ass%20Tricky%20Mod%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Full-Ass%20Tricky%20Mod%20%EF%B8%8F/index.html"
   },
@@ -7129,7 +7057,7 @@
   },
   {
     "id": 1217,
-    "name": "FNF: Indie Cross \ufe0f",
+    "name": "FNF: Indie Cross ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Indie%20Cross%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Indie%20Cross%20%EF%B8%8F/index.html"
   },
@@ -7183,7 +7111,7 @@
   },
   {
     "id": 1226,
-    "name": "FNF: Pibby Corrupted \ufe0f",
+    "name": "FNF: Pibby Corrupted ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Corrupted%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Pibby%20Corrupted%20%EF%B8%8F/index.html"
   },
@@ -7345,13 +7273,13 @@
   },
   {
     "id": 1253,
-    "name": "FNF: 13th Night Funk Blood\ufe0f",
+    "name": "FNF: 13th Night Funk Blood️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%2013th%20Night%20Funk%20Blood%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%2013th%20Night%20Funk%20Blood%EF%B8%8F/index.html"
   },
   {
     "id": 1254,
-    "name": "FNF: Lobotomy Dash Funkin' \ufe0f",
+    "name": "FNF: Lobotomy Dash Funkin' ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Lobotomy%20Dash%20Funkin%27%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Lobotomy%20Dash%20Funkin%27%20%EF%B8%8F/index.html"
   },
@@ -7501,7 +7429,7 @@
   },
   {
     "id": 1279,
-    "name": "FNF: The Squidward Tricky Mod \ufe0f",
+    "name": "FNF: The Squidward Tricky Mod ️",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Squidward%20Tricky%20Mod%20%EF%B8%8F/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20The%20Squidward%20Tricky%20Mod%20%EF%B8%8F/index.html"
   },
@@ -9037,7 +8965,7 @@
   },
   {
     "id": 1535,
-    "name": "FNF: Anemaniac \u2013 Bendy vs Ollie",
+    "name": "FNF: Anemaniac – Bendy vs Ollie",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Anemaniac%20%E2%80%93%20Bendy%20vs%20Ollie/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Anemaniac%20%E2%80%93%20Bendy%20vs%20Ollie/index.html"
   },
@@ -9049,7 +8977,7 @@
   },
   {
     "id": 1537,
-    "name": "FNF: Funkin\u2019 on the Heights!",
+    "name": "FNF: Funkin’ on the Heights!",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%E2%80%99%20on%20the%20Heights%21/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Funkin%E2%80%99%20on%20the%20Heights%21/index.html"
   },
@@ -9388,5 +9316,23 @@
     "name": "FNF: Hazier River",
     "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hazier%20River/index.png",
     "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/FNF_%20Hazier%20River/index.html"
+  },
+  {
+    "id": 1594,
+    "name": "Cut the Rope",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cut%20the%20Rope%20%2885%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Cut%20the%20Rope%20%2885%29/index.html"
+  },
+  {
+    "id": 1595,
+    "name": "Tetris",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28733%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28733%29/index.html"
+  },
+  {
+    "id": 1596,
+    "name": "Tetris",
+    "cover": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28745%29/index.png",
+    "url": "https://cdn.jsdelivr.net/gh/phant0m0567/games@main/Tetris%20%28745%29/index.html"
   }
 ]
